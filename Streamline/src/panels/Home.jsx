@@ -40,7 +40,7 @@ const Home = ({ id, go, fetchedUser }) => (
           onClick={go}
           data-to="persik"
         >
-          Show me the Persik, please
+          Show me the Pers, please
         </Button>
       </Div>
     </Group>
