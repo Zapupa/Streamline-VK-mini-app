@@ -1,0 +1,2016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wikiloc - Moscow - Pushchino - Tesna (June 16, MMXVIII)</name>
+    <link href="https://www.wikiloc.com/mountain-biking-trails/moskva-pushchino-tesna-june-16-mmxviii-25832855">
+      <text>Moscow - Pushchino - Tesna (June 16, MMXVIII) on Wikiloc</text>
+    </link>
+    <time>2023-11-25T06:54:13Z</time>
+  </metadata>
+  <trk>
+    <name>Moscow - Pushchino - Tesna (June 16, MMXVIII)</name>
+    <cmt></cmt>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="55.695562" lon="37.615004">
+        <ele>135.476</ele>
+        <time>1998-06-17T02:27:46Z</time>
+      </trkpt>
+      <trkpt lat="55.695879" lon="37.616122">
+        <ele>134.890</ele>
+        <time>1998-06-17T02:29:43Z</time>
+      </trkpt>
+      <trkpt lat="55.696292" lon="37.616654">
+        <ele>134.819</ele>
+        <time>1998-06-17T02:30:25Z</time>
+      </trkpt>
+      <trkpt lat="55.696214" lon="37.617378">
+        <ele>132.808</ele>
+        <time>1998-06-17T02:30:35Z</time>
+      </trkpt>
+      <trkpt lat="55.696361" lon="37.620476">
+        <ele>141.069</ele>
+        <time>1998-06-17T02:31:53Z</time>
+      </trkpt>
+      <trkpt lat="55.683349" lon="37.623101">
+        <ele>142.452</ele>
+        <time>1998-06-17T02:35:29Z</time>
+      </trkpt>
+      <trkpt lat="55.676790" lon="37.625432">
+        <ele>154.885</ele>
+        <time>1998-06-17T02:37:40Z</time>
+      </trkpt>
+      <trkpt lat="55.673467" lon="37.626188">
+        <ele>161.040</ele>
+        <time>1998-06-17T02:38:45Z</time>
+      </trkpt>
+      <trkpt lat="55.671715" lon="37.626170">
+        <ele>164.639</ele>
+        <time>1998-06-17T02:39:20Z</time>
+      </trkpt>
+      <trkpt lat="55.669996" lon="37.625292">
+        <ele>171.655</ele>
+        <time>1998-06-17T02:40:10Z</time>
+      </trkpt>
+      <trkpt lat="55.663677" lon="37.619796">
+        <ele>172.612</ele>
+        <time>1998-06-17T02:42:19Z</time>
+      </trkpt>
+      <trkpt lat="55.662439" lon="37.619248">
+        <ele>171.222</ele>
+        <time>1998-06-17T02:42:34Z</time>
+      </trkpt>
+      <trkpt lat="55.633825" lon="37.619620">
+        <ele>168.621</ele>
+        <time>1998-06-17T02:49:53Z</time>
+      </trkpt>
+      <trkpt lat="55.632185" lon="37.619319">
+        <ele>172.841</ele>
+        <time>1998-06-17T02:50:40Z</time>
+      </trkpt>
+      <trkpt lat="55.591296" lon="37.599745">
+        <ele>188.605</ele>
+        <time>1998-06-17T03:04:53Z</time>
+      </trkpt>
+      <trkpt lat="55.581859" lon="37.596762">
+        <ele>182.408</ele>
+        <time>1998-06-17T03:07:15Z</time>
+      </trkpt>
+      <trkpt lat="55.578700" lon="37.595986">
+        <ele>180.284</ele>
+        <time>1998-06-17T03:07:59Z</time>
+      </trkpt>
+      <trkpt lat="55.576670" lon="37.596094">
+        <ele>180.297</ele>
+        <time>1998-06-17T03:08:25Z</time>
+      </trkpt>
+      <trkpt lat="55.572887" lon="37.597187">
+        <ele>170.660</ele>
+        <time>1998-06-17T03:09:25Z</time>
+      </trkpt>
+      <trkpt lat="55.569346" lon="37.598932">
+        <ele>161.485</ele>
+        <time>1998-06-17T03:11:38Z</time>
+      </trkpt>
+      <trkpt lat="55.564177" lon="37.603047">
+        <ele>157.224</ele>
+        <time>1998-06-17T03:12:56Z</time>
+      </trkpt>
+      <trkpt lat="55.560931" lon="37.604540">
+        <ele>165.620</ele>
+        <time>1998-06-17T03:14:02Z</time>
+      </trkpt>
+      <trkpt lat="55.558048" lon="37.605124">
+        <ele>171.677</ele>
+        <time>1998-06-17T03:15:03Z</time>
+      </trkpt>
+      <trkpt lat="55.548873" lon="37.605679">
+        <ele>180.047</ele>
+        <time>1998-06-17T03:17:45Z</time>
+      </trkpt>
+      <trkpt lat="55.546428" lon="37.606052">
+        <ele>182.063</ele>
+        <time>1998-06-17T03:18:26Z</time>
+      </trkpt>
+      <trkpt lat="55.543812" lon="37.606895">
+        <ele>182.044</ele>
+        <time>1998-06-17T03:19:08Z</time>
+      </trkpt>
+      <trkpt lat="55.538460" lon="37.609205">
+        <ele>173.618</ele>
+        <time>1998-06-17T03:20:15Z</time>
+      </trkpt>
+      <trkpt lat="55.535691" lon="37.609990">
+        <ele>169.808</ele>
+        <time>1998-06-17T03:20:50Z</time>
+      </trkpt>
+      <trkpt lat="55.532850" lon="37.610423">
+        <ele>167.468</ele>
+        <time>1998-06-17T03:21:30Z</time>
+      </trkpt>
+      <trkpt lat="55.528915" lon="37.610364">
+        <ele>165.481</ele>
+        <time>1998-06-17T03:22:21Z</time>
+      </trkpt>
+      <trkpt lat="55.521755" lon="37.608734">
+        <ele>163.494</ele>
+        <time>1998-06-17T03:24:12Z</time>
+      </trkpt>
+      <trkpt lat="55.516811" lon="37.608196">
+        <ele>171.659</ele>
+        <time>1998-06-17T03:25:42Z</time>
+      </trkpt>
+      <trkpt lat="55.513275" lon="37.608322">
+        <ele>173.618</ele>
+        <time>1998-06-17T03:26:40Z</time>
+      </trkpt>
+      <trkpt lat="55.502441" lon="37.609456">
+        <ele>171.664</ele>
+        <time>1998-06-17T03:29:07Z</time>
+      </trkpt>
+      <trkpt lat="55.496542" lon="37.610362">
+        <ele>173.651</ele>
+        <time>1998-06-17T03:30:44Z</time>
+      </trkpt>
+      <trkpt lat="55.490747" lon="37.611593">
+        <ele>173.681</ele>
+        <time>1998-06-17T03:32:07Z</time>
+      </trkpt>
+      <trkpt lat="55.464587" lon="37.618626">
+        <ele>133.277</ele>
+        <time>1998-06-17T03:37:28Z</time>
+      </trkpt>
+      <trkpt lat="55.461014" lon="37.619166">
+        <ele>131.261</ele>
+        <time>1998-06-17T03:38:14Z</time>
+      </trkpt>
+      <trkpt lat="55.457966" lon="37.618970">
+        <ele>131.227</ele>
+        <time>1998-06-17T03:38:55Z</time>
+      </trkpt>
+      <trkpt lat="55.431522" lon="37.614324">
+        <ele>160.208</ele>
+        <time>1998-06-17T03:46:48Z</time>
+      </trkpt>
+      <trkpt lat="55.409501" lon="37.606420">
+        <ele>166.439</ele>
+        <time>1998-06-17T03:53:20Z</time>
+      </trkpt>
+      <trkpt lat="55.404651" lon="37.605311">
+        <ele>164.472</ele>
+        <time>1998-06-17T03:56:40Z</time>
+      </trkpt>
+      <trkpt lat="55.400038" lon="37.604775">
+        <ele>166.025</ele>
+        <time>1998-06-17T03:57:49Z</time>
+      </trkpt>
+      <trkpt lat="55.392255" lon="37.604508">
+        <ele>166.410</ele>
+        <time>1998-06-17T03:59:46Z</time>
+      </trkpt>
+      <trkpt lat="55.382438" lon="37.604592">
+        <ele>164.419</ele>
+        <time>1998-06-17T04:02:05Z</time>
+      </trkpt>
+      <trkpt lat="55.373946" lon="37.604281">
+        <ele>166.445</ele>
+        <time>1998-06-17T04:04:04Z</time>
+      </trkpt>
+      <trkpt lat="55.367664" lon="37.602703">
+        <ele>172.412</ele>
+        <time>1998-06-17T04:05:41Z</time>
+      </trkpt>
+      <trkpt lat="55.363263" lon="37.600611">
+        <ele>178.622</ele>
+        <time>1998-06-17T04:07:00Z</time>
+      </trkpt>
+      <trkpt lat="55.348815" lon="37.590669">
+        <ele>161.819</ele>
+        <time>1998-06-17T04:10:31Z</time>
+      </trkpt>
+      <trkpt lat="55.346337" lon="37.588588">
+        <ele>161.809</ele>
+        <time>1998-06-17T04:11:04Z</time>
+      </trkpt>
+      <trkpt lat="55.343889" lon="37.585944">
+        <ele>164.019</ele>
+        <time>1998-06-17T04:11:48Z</time>
+      </trkpt>
+      <trkpt lat="55.341036" lon="37.581981">
+        <ele>170.208</ele>
+        <time>1998-06-17T04:12:56Z</time>
+      </trkpt>
+      <trkpt lat="55.335753" lon="37.572224">
+        <ele>172.483</ele>
+        <time>1998-06-17T04:14:52Z</time>
+      </trkpt>
+      <trkpt lat="55.332784" lon="37.567671">
+        <ele>174.476</ele>
+        <time>1998-06-17T04:15:58Z</time>
+      </trkpt>
+      <trkpt lat="55.331436" lon="37.566047">
+        <ele>174.419</ele>
+        <time>1998-06-17T04:16:26Z</time>
+      </trkpt>
+      <trkpt lat="55.328607" lon="37.563227">
+        <ele>174.454</ele>
+        <time>1998-06-17T04:17:14Z</time>
+      </trkpt>
+      <trkpt lat="55.327019" lon="37.561963">
+        <ele>174.493</ele>
+        <time>1998-06-17T04:17:40Z</time>
+      </trkpt>
+      <trkpt lat="55.306609" lon="37.549908">
+        <ele>174.249</ele>
+        <time>1998-06-17T04:22:43Z</time>
+      </trkpt>
+      <trkpt lat="55.299712" lon="37.546469">
+        <ele>176.426</ele>
+        <time>1998-06-17T04:24:38Z</time>
+      </trkpt>
+      <trkpt lat="55.292788" lon="37.544018">
+        <ele>178.436</ele>
+        <time>1998-06-17T04:26:22Z</time>
+      </trkpt>
+      <trkpt lat="55.267480" lon="37.536051">
+        <ele>165.434</ele>
+        <time>1998-06-17T04:32:38Z</time>
+      </trkpt>
+      <trkpt lat="55.247007" lon="37.528023">
+        <ele>173.655</ele>
+        <time>1998-06-17T04:41:10Z</time>
+      </trkpt>
+      <trkpt lat="55.243633" lon="37.527180">
+        <ele>173.610</ele>
+        <time>1998-06-17T04:41:59Z</time>
+      </trkpt>
+      <trkpt lat="55.241501" lon="37.526951">
+        <ele>173.608</ele>
+        <time>1998-06-17T04:42:31Z</time>
+      </trkpt>
+      <trkpt lat="55.237847" lon="37.527058">
+        <ele>173.695</ele>
+        <time>1998-06-17T04:43:24Z</time>
+      </trkpt>
+      <trkpt lat="55.235372" lon="37.527472">
+        <ele>175.858</ele>
+        <time>1998-06-17T04:44:01Z</time>
+      </trkpt>
+      <trkpt lat="55.216971" lon="37.533723">
+        <ele>188.641</ele>
+        <time>1998-06-17T04:49:16Z</time>
+      </trkpt>
+      <trkpt lat="55.212853" lon="37.534573">
+        <ele>192.846</ele>
+        <time>1998-06-17T04:50:32Z</time>
+      </trkpt>
+      <trkpt lat="55.206417" lon="37.535096">
+        <ele>198.815</ele>
+        <time>1998-06-17T04:52:33Z</time>
+      </trkpt>
+      <trkpt lat="55.192351" lon="37.534221">
+        <ele>192.611</ele>
+        <time>1998-06-17T04:55:47Z</time>
+      </trkpt>
+      <trkpt lat="55.187531" lon="37.534277">
+        <ele>192.688</ele>
+        <time>1998-06-17T04:57:06Z</time>
+      </trkpt>
+      <trkpt lat="55.182815" lon="37.534965">
+        <ele>196.668</ele>
+        <time>1998-06-17T04:58:28Z</time>
+      </trkpt>
+      <trkpt lat="55.175175" lon="37.537281">
+        <ele>194.484</ele>
+        <time>1998-06-17T05:00:20Z</time>
+      </trkpt>
+      <trkpt lat="55.171096" lon="37.539106">
+        <ele>190.407</ele>
+        <time>1998-06-17T05:01:09Z</time>
+      </trkpt>
+      <trkpt lat="55.158438" lon="37.545603">
+        <ele>184.217</ele>
+        <time>1998-06-17T05:03:58Z</time>
+      </trkpt>
+      <trkpt lat="55.153804" lon="37.548550">
+        <ele>180.008</ele>
+        <time>1998-06-17T05:04:57Z</time>
+      </trkpt>
+      <trkpt lat="55.113474" lon="37.578437">
+        <ele>176.090</ele>
+        <time>1998-06-17T05:23:47Z</time>
+      </trkpt>
+      <trkpt lat="55.109861" lon="37.580781">
+        <ele>176.073</ele>
+        <time>1998-06-17T05:24:42Z</time>
+      </trkpt>
+      <trkpt lat="55.105488" lon="37.583068">
+        <ele>178.256</ele>
+        <time>1998-06-17T05:25:45Z</time>
+      </trkpt>
+      <trkpt lat="55.101398" lon="37.584480">
+        <ele>178.231</ele>
+        <time>1998-06-17T05:26:42Z</time>
+      </trkpt>
+      <trkpt lat="55.098088" lon="37.585025">
+        <ele>178.250</ele>
+        <time>1998-06-17T05:27:25Z</time>
+      </trkpt>
+      <trkpt lat="55.094734" lon="37.584834">
+        <ele>176.246</ele>
+        <time>1998-06-17T05:28:06Z</time>
+      </trkpt>
+      <trkpt lat="55.091031" lon="37.583818">
+        <ele>172.213</ele>
+        <time>1998-06-17T05:28:48Z</time>
+      </trkpt>
+      <trkpt lat="55.085937" lon="37.581339">
+        <ele>164.433</ele>
+        <time>1998-06-17T05:29:45Z</time>
+      </trkpt>
+      <trkpt lat="55.080669" lon="37.577684">
+        <ele>148.012</ele>
+        <time>1998-06-17T05:30:43Z</time>
+      </trkpt>
+      <trkpt lat="55.070725" lon="37.569748">
+        <ele>163.832</ele>
+        <time>1998-06-17T05:33:53Z</time>
+      </trkpt>
+      <trkpt lat="55.065908" lon="37.566513">
+        <ele>172.005</ele>
+        <time>1998-06-17T05:35:34Z</time>
+      </trkpt>
+      <trkpt lat="55.062362" lon="37.564636">
+        <ele>178.208</ele>
+        <time>1998-06-17T05:36:49Z</time>
+      </trkpt>
+      <trkpt lat="55.050850" lon="37.560260">
+        <ele>180.463</ele>
+        <time>1998-06-17T05:39:55Z</time>
+      </trkpt>
+      <trkpt lat="55.046524" lon="37.559096">
+        <ele>182.476</ele>
+        <time>1998-06-17T05:41:04Z</time>
+      </trkpt>
+      <trkpt lat="55.040933" lon="37.558403">
+        <ele>182.499</ele>
+        <time>1998-06-17T05:42:34Z</time>
+      </trkpt>
+      <trkpt lat="55.029922" lon="37.558308">
+        <ele>184.414</ele>
+        <time>1998-06-17T05:45:34Z</time>
+      </trkpt>
+      <trkpt lat="55.024102" lon="37.557787">
+        <ele>184.423</ele>
+        <time>1998-06-17T05:47:01Z</time>
+      </trkpt>
+      <trkpt lat="55.019292" lon="37.556753">
+        <ele>184.499</ele>
+        <time>1998-06-17T05:48:12Z</time>
+      </trkpt>
+      <trkpt lat="55.014558" lon="37.554958">
+        <ele>184.416</ele>
+        <time>1998-06-17T05:49:34Z</time>
+      </trkpt>
+      <trkpt lat="55.010930" lon="37.552984">
+        <ele>186.476</ele>
+        <time>1998-06-17T05:50:32Z</time>
+      </trkpt>
+      <trkpt lat="55.006257" lon="37.549855">
+        <ele>186.466</ele>
+        <time>1998-06-17T05:51:41Z</time>
+      </trkpt>
+      <trkpt lat="54.995020" lon="37.541007">
+        <ele>184.429</ele>
+        <time>1998-06-17T05:54:17Z</time>
+      </trkpt>
+      <trkpt lat="54.990830" lon="37.538038">
+        <ele>184.421</ele>
+        <time>1998-06-17T05:55:22Z</time>
+      </trkpt>
+      <trkpt lat="54.984529" lon="37.534787">
+        <ele>184.408</ele>
+        <time>1998-06-17T05:56:52Z</time>
+      </trkpt>
+      <trkpt lat="54.977203" lon="37.531749">
+        <ele>182.278</ele>
+        <time>1998-06-17T05:58:47Z</time>
+      </trkpt>
+      <trkpt lat="54.972061" lon="37.530039">
+        <ele>182.271</ele>
+        <time>1998-06-17T06:00:19Z</time>
+      </trkpt>
+      <trkpt lat="54.968022" lon="37.529181">
+        <ele>182.264</ele>
+        <time>1998-06-17T06:01:36Z</time>
+      </trkpt>
+      <trkpt lat="54.959686" lon="37.529080">
+        <ele>176.019</ele>
+        <time>1998-06-17T06:04:12Z</time>
+      </trkpt>
+      <trkpt lat="54.944529" lon="37.530209">
+        <ele>162.648</ele>
+        <time>1998-06-17T06:07:58Z</time>
+      </trkpt>
+      <trkpt lat="54.939513" lon="37.529715">
+        <ele>175.494</ele>
+        <time>1998-06-17T06:09:53Z</time>
+      </trkpt>
+      <trkpt lat="54.936305" lon="37.528640">
+        <ele>177.491</ele>
+        <time>1998-06-17T06:10:51Z</time>
+      </trkpt>
+      <trkpt lat="54.932881" lon="37.526636">
+        <ele>177.481</ele>
+        <time>1998-06-17T06:11:44Z</time>
+      </trkpt>
+      <trkpt lat="54.930405" lon="37.524600">
+        <ele>177.435</ele>
+        <time>1998-06-17T06:12:23Z</time>
+      </trkpt>
+      <trkpt lat="54.920723" lon="37.515741">
+        <ele>177.486</ele>
+        <time>1998-06-17T06:14:57Z</time>
+      </trkpt>
+      <trkpt lat="54.916576" lon="37.513159">
+        <ele>177.414</ele>
+        <time>1998-06-17T06:16:04Z</time>
+      </trkpt>
+      <trkpt lat="54.912890" lon="37.511831">
+        <ele>175.208</ele>
+        <time>1998-06-17T06:17:22Z</time>
+      </trkpt>
+      <trkpt lat="54.909385" lon="37.511470">
+        <ele>168.615</ele>
+        <time>1998-06-17T06:18:14Z</time>
+      </trkpt>
+      <trkpt lat="54.886680" lon="37.511591">
+        <ele>125.068</ele>
+        <time>1998-06-17T06:22:33Z</time>
+      </trkpt>
+      <trkpt lat="54.885041" lon="37.511364">
+        <ele>124.211</ele>
+        <time>1998-06-17T06:22:52Z</time>
+      </trkpt>
+      <trkpt lat="54.882889" lon="37.510608">
+        <ele>124.246</ele>
+        <time>1998-06-17T06:23:19Z</time>
+      </trkpt>
+      <trkpt lat="54.878110" lon="37.508190">
+        <ele>122.245</ele>
+        <time>1998-06-17T06:24:27Z</time>
+      </trkpt>
+      <trkpt lat="54.866512" lon="37.501638">
+        <ele>124.231</ele>
+        <time>1998-06-17T06:27:50Z</time>
+      </trkpt>
+      <trkpt lat="54.865583" lon="37.500744">
+        <ele>124.278</ele>
+        <time>1998-06-17T06:28:02Z</time>
+      </trkpt>
+      <trkpt lat="54.864679" lon="37.499479">
+        <ele>124.258</ele>
+        <time>1998-06-17T06:28:17Z</time>
+      </trkpt>
+      <trkpt lat="54.863858" lon="37.497790">
+        <ele>124.224</ele>
+        <time>1998-06-17T06:28:34Z</time>
+      </trkpt>
+      <trkpt lat="54.859241" lon="37.486029">
+        <ele>122.004</ele>
+        <time>1998-06-17T06:30:34Z</time>
+      </trkpt>
+      <trkpt lat="54.857677" lon="37.481206">
+        <ele>122.014</ele>
+        <time>1998-06-17T06:33:25Z</time>
+      </trkpt>
+      <trkpt lat="54.857356" lon="37.480739">
+        <ele>124.008</ele>
+        <time>1998-06-17T07:01:34Z</time>
+      </trkpt>
+      <trkpt lat="54.855982" lon="37.482398">
+        <ele>122.864</ele>
+        <time>1998-06-17T07:02:15Z</time>
+      </trkpt>
+      <trkpt lat="54.853260" lon="37.486729">
+        <ele>121.897</ele>
+        <time>1998-06-17T07:05:18Z</time>
+      </trkpt>
+      <trkpt lat="54.852728" lon="37.488200">
+        <ele>121.850</ele>
+        <time>1998-06-17T07:05:36Z</time>
+      </trkpt>
+      <trkpt lat="54.850480" lon="37.491937">
+        <ele>121.885</ele>
+        <time>1998-06-17T07:07:38Z</time>
+      </trkpt>
+      <trkpt lat="54.847546" lon="37.500182">
+        <ele>119.824</ele>
+        <time>1998-06-17T07:09:26Z</time>
+      </trkpt>
+      <trkpt lat="54.846399" lon="37.502819">
+        <ele>121.870</ele>
+        <time>1998-06-17T07:10:14Z</time>
+      </trkpt>
+      <trkpt lat="54.845813" lon="37.504679">
+        <ele>126.037</ele>
+        <time>1998-06-17T07:10:45Z</time>
+      </trkpt>
+      <trkpt lat="54.845163" lon="37.507951">
+        <ele>126.017</ele>
+        <time>1998-06-17T07:11:26Z</time>
+      </trkpt>
+      <trkpt lat="54.844742" lon="37.508994">
+        <ele>126.027</ele>
+        <time>1998-06-17T07:11:41Z</time>
+      </trkpt>
+      <trkpt lat="54.844621" lon="37.511093">
+        <ele>126.068</ele>
+        <time>1998-06-17T07:12:07Z</time>
+      </trkpt>
+      <trkpt lat="54.843814" lon="37.516713">
+        <ele>126.014</ele>
+        <time>1998-06-17T07:13:05Z</time>
+      </trkpt>
+      <trkpt lat="54.843676" lon="37.520142">
+        <ele>126.008</ele>
+        <time>1998-06-17T07:13:50Z</time>
+      </trkpt>
+      <trkpt lat="54.843792" lon="37.520986">
+        <ele>126.044</ele>
+        <time>1998-06-17T07:14:01Z</time>
+      </trkpt>
+      <trkpt lat="54.844372" lon="37.522316">
+        <ele>125.067</ele>
+        <time>1998-06-17T07:14:19Z</time>
+      </trkpt>
+      <trkpt lat="54.844554" lon="37.523157">
+        <ele>123.850</ele>
+        <time>1998-06-17T07:14:27Z</time>
+      </trkpt>
+      <trkpt lat="54.844806" lon="37.528730">
+        <ele>121.855</ele>
+        <time>1998-06-17T07:15:21Z</time>
+      </trkpt>
+      <trkpt lat="54.843551" lon="37.537073">
+        <ele>121.824</ele>
+        <time>1998-06-17T07:16:54Z</time>
+      </trkpt>
+      <trkpt lat="54.842161" lon="37.547807">
+        <ele>119.870</ele>
+        <time>1998-06-17T07:18:59Z</time>
+      </trkpt>
+      <trkpt lat="54.842022" lon="37.549909">
+        <ele>119.857</ele>
+        <time>1998-06-17T07:19:24Z</time>
+      </trkpt>
+      <trkpt lat="54.841962" lon="37.556870">
+        <ele>119.817</ele>
+        <time>1998-06-17T07:20:36Z</time>
+      </trkpt>
+      <trkpt lat="54.839676" lon="37.567254">
+        <ele>121.888</ele>
+        <time>1998-06-17T07:22:42Z</time>
+      </trkpt>
+      <trkpt lat="54.839255" lon="37.575866">
+        <ele>119.824</ele>
+        <time>1998-06-17T07:24:51Z</time>
+      </trkpt>
+      <trkpt lat="54.837989" lon="37.591821">
+        <ele>123.826</ele>
+        <time>1998-06-17T07:29:46Z</time>
+      </trkpt>
+      <trkpt lat="54.837511" lon="37.593360">
+        <ele>130.208</ele>
+        <time>1998-06-17T07:30:26Z</time>
+      </trkpt>
+      <trkpt lat="54.837140" lon="37.593823">
+        <ele>132.230</ele>
+        <time>1998-06-17T07:31:01Z</time>
+      </trkpt>
+      <trkpt lat="54.835357" lon="37.594845">
+        <ele>148.653</ele>
+        <time>1998-06-17T07:33:40Z</time>
+      </trkpt>
+      <trkpt lat="54.832618" lon="37.597234">
+        <ele>167.496</ele>
+        <time>1998-06-17T07:38:11Z</time>
+      </trkpt>
+      <trkpt lat="54.831185" lon="37.600266">
+        <ele>177.611</ele>
+        <time>1998-06-17T07:41:44Z</time>
+      </trkpt>
+      <trkpt lat="54.831028" lon="37.600183">
+        <ele>177.650</ele>
+        <time>1998-06-17T07:42:39Z</time>
+      </trkpt>
+      <trkpt lat="54.830127" lon="37.602582">
+        <ele>179.626</ele>
+        <time>1998-06-17T07:44:26Z</time>
+      </trkpt>
+      <trkpt lat="54.828655" lon="37.603560">
+        <ele>181.673</ele>
+        <time>1998-06-17T07:45:16Z</time>
+      </trkpt>
+      <trkpt lat="54.828139" lon="37.604283">
+        <ele>181.663</ele>
+        <time>1998-06-17T07:45:32Z</time>
+      </trkpt>
+      <trkpt lat="54.827211" lon="37.606421">
+        <ele>182.085</ele>
+        <time>1998-06-17T07:46:05Z</time>
+      </trkpt>
+      <trkpt lat="54.826258" lon="37.610514">
+        <ele>189.889</ele>
+        <time>1998-06-17T07:47:19Z</time>
+      </trkpt>
+      <trkpt lat="54.825389" lon="37.612863">
+        <ele>187.617</ele>
+        <time>1998-06-17T07:47:55Z</time>
+      </trkpt>
+      <trkpt lat="54.824899" lon="37.616508">
+        <ele>197.408</ele>
+        <time>1998-06-17T07:49:25Z</time>
+      </trkpt>
+      <trkpt lat="54.824409" lon="37.617670">
+        <ele>199.830</ele>
+        <time>1998-06-17T07:49:50Z</time>
+      </trkpt>
+      <trkpt lat="54.823816" lon="37.618097">
+        <ele>199.843</ele>
+        <time>1998-06-17T07:50:06Z</time>
+      </trkpt>
+      <trkpt lat="54.823411" lon="37.618070">
+        <ele>199.816</ele>
+        <time>1998-06-17T07:50:14Z</time>
+      </trkpt>
+      <trkpt lat="54.820285" lon="37.615527">
+        <ele>201.671</ele>
+        <time>1998-06-17T07:51:47Z</time>
+      </trkpt>
+      <trkpt lat="54.814777" lon="37.618304">
+        <ele>218.070</ele>
+        <time>1998-06-17T07:54:28Z</time>
+      </trkpt>
+      <trkpt lat="54.803705" lon="37.630356">
+        <ele>215.886</ele>
+        <time>1998-06-17T08:10:13Z</time>
+      </trkpt>
+      <trkpt lat="54.802395" lon="37.632405">
+        <ele>208.863</ele>
+        <time>1998-06-17T08:10:38Z</time>
+      </trkpt>
+      <trkpt lat="54.800106" lon="37.633301">
+        <ele>207.233</ele>
+        <time>1998-06-17T08:11:17Z</time>
+      </trkpt>
+      <trkpt lat="54.798491" lon="37.634454">
+        <ele>213.857</ele>
+        <time>1998-06-17T08:12:24Z</time>
+      </trkpt>
+      <trkpt lat="54.796131" lon="37.635719">
+        <ele>221.800</ele>
+        <time>1998-06-17T08:13:21Z</time>
+      </trkpt>
+      <trkpt lat="54.785467" lon="37.642896">
+        <ele>238.820</ele>
+        <time>1998-06-17T08:18:27Z</time>
+      </trkpt>
+      <trkpt lat="54.778697" lon="37.644789">
+        <ele>234.808</ele>
+        <time>1998-06-17T08:20:40Z</time>
+      </trkpt>
+      <trkpt lat="54.771575" lon="37.643984">
+        <ele>236.887</ele>
+        <time>1998-06-17T08:23:42Z</time>
+      </trkpt>
+      <trkpt lat="54.763009" lon="37.645684">
+        <ele>226.250</ele>
+        <time>1998-06-17T08:27:50Z</time>
+      </trkpt>
+      <trkpt lat="54.757773" lon="37.653732">
+        <ele>228.483</ele>
+        <time>1998-06-17T08:31:19Z</time>
+      </trkpt>
+      <trkpt lat="54.756081" lon="37.656638">
+        <ele>230.468</ele>
+        <time>1998-06-17T08:32:12Z</time>
+      </trkpt>
+      <trkpt lat="54.755439" lon="37.658631">
+        <ele>230.477</ele>
+        <time>1998-06-17T08:32:38Z</time>
+      </trkpt>
+      <trkpt lat="54.751491" lon="37.673452">
+        <ele>217.283</ele>
+        <time>1998-06-17T08:36:57Z</time>
+      </trkpt>
+      <trkpt lat="54.751027" lon="37.673705">
+        <ele>215.420</ele>
+        <time>1998-06-17T08:37:07Z</time>
+      </trkpt>
+      <trkpt lat="54.747881" lon="37.673522">
+        <ele>200.620</ele>
+        <time>1998-06-17T08:38:31Z</time>
+      </trkpt>
+      <trkpt lat="54.745967" lon="37.674509">
+        <ele>205.866</ele>
+        <time>1998-06-17T08:40:38Z</time>
+      </trkpt>
+      <trkpt lat="54.745193" lon="37.675208">
+        <ele>209.829</ele>
+        <time>1998-06-17T08:41:41Z</time>
+      </trkpt>
+      <trkpt lat="54.744784" lon="37.675172">
+        <ele>212.021</ele>
+        <time>1998-06-17T08:42:12Z</time>
+      </trkpt>
+      <trkpt lat="54.744399" lon="37.674640">
+        <ele>212.008</ele>
+        <time>1998-06-17T08:43:11Z</time>
+      </trkpt>
+      <trkpt lat="54.744251" lon="37.674876">
+        <ele>214.018</ele>
+        <time>1998-06-17T08:44:08Z</time>
+      </trkpt>
+      <trkpt lat="54.742497" lon="37.675385">
+        <ele>216.031</ele>
+        <time>1998-06-17T08:46:33Z</time>
+      </trkpt>
+      <trkpt lat="54.737304" lon="37.679929">
+        <ele>224.414</ele>
+        <time>1998-06-17T08:50:51Z</time>
+      </trkpt>
+      <trkpt lat="54.736009" lon="37.681435">
+        <ele>224.489</ele>
+        <time>1998-06-17T08:52:08Z</time>
+      </trkpt>
+      <trkpt lat="54.735514" lon="37.682755">
+        <ele>222.458</ele>
+        <time>1998-06-17T08:52:36Z</time>
+      </trkpt>
+      <trkpt lat="54.733103" lon="37.686136">
+        <ele>222.454</ele>
+        <time>1998-06-17T08:55:04Z</time>
+      </trkpt>
+      <trkpt lat="54.731860" lon="37.687260">
+        <ele>224.491</ele>
+        <time>1998-06-17T08:56:33Z</time>
+      </trkpt>
+      <trkpt lat="54.730118" lon="37.687528">
+        <ele>224.421</ele>
+        <time>1998-06-17T08:58:15Z</time>
+      </trkpt>
+      <trkpt lat="54.727717" lon="37.686905">
+        <ele>226.447</ele>
+        <time>1998-06-17T08:59:58Z</time>
+      </trkpt>
+      <trkpt lat="54.722086" lon="37.683488">
+        <ele>232.629</ele>
+        <time>1998-06-17T09:04:47Z</time>
+      </trkpt>
+      <trkpt lat="54.721442" lon="37.683324">
+        <ele>234.621</ele>
+        <time>1998-06-17T09:05:52Z</time>
+      </trkpt>
+      <trkpt lat="54.719263" lon="37.680529">
+        <ele>240.808</ele>
+        <time>1998-06-17T09:07:15Z</time>
+      </trkpt>
+      <trkpt lat="54.718994" lon="37.679665">
+        <ele>240.836</ele>
+        <time>1998-06-17T09:07:32Z</time>
+      </trkpt>
+      <trkpt lat="54.719021" lon="37.678745">
+        <ele>240.859</ele>
+        <time>1998-06-17T09:07:53Z</time>
+      </trkpt>
+      <trkpt lat="54.718785" lon="37.678362">
+        <ele>240.872</ele>
+        <time>1998-06-17T09:08:09Z</time>
+      </trkpt>
+      <trkpt lat="54.716354" lon="37.681370">
+        <ele>242.847</ele>
+        <time>1998-06-17T09:11:42Z</time>
+      </trkpt>
+      <trkpt lat="54.714002" lon="37.683879">
+        <ele>236.816</ele>
+        <time>1998-06-17T09:13:16Z</time>
+      </trkpt>
+      <trkpt lat="54.710120" lon="37.687333">
+        <ele>236.242</ele>
+        <time>1998-06-17T09:15:07Z</time>
+      </trkpt>
+      <trkpt lat="54.708889" lon="37.688784">
+        <ele>234.219</ele>
+        <time>1998-06-17T09:15:47Z</time>
+      </trkpt>
+      <trkpt lat="54.705391" lon="37.691299">
+        <ele>234.269</ele>
+        <time>1998-06-17T09:17:39Z</time>
+      </trkpt>
+      <trkpt lat="54.701628" lon="37.695115">
+        <ele>229.248</ele>
+        <time>1998-06-17T09:20:19Z</time>
+      </trkpt>
+      <trkpt lat="54.699259" lon="37.695847">
+        <ele>228.061</ele>
+        <time>1998-06-17T09:23:00Z</time>
+      </trkpt>
+      <trkpt lat="54.697574" lon="37.697198">
+        <ele>228.017</ele>
+        <time>1998-06-17T09:24:54Z</time>
+      </trkpt>
+      <trkpt lat="54.697149" lon="37.697839">
+        <ele>228.008</ele>
+        <time>1998-06-17T09:25:10Z</time>
+      </trkpt>
+      <trkpt lat="54.696134" lon="37.698190">
+        <ele>226.056</ele>
+        <time>1998-06-17T09:25:43Z</time>
+      </trkpt>
+      <trkpt lat="54.692226" lon="37.701177">
+        <ele>226.039</ele>
+        <time>1998-06-17T09:27:38Z</time>
+      </trkpt>
+      <trkpt lat="54.690944" lon="37.702816">
+        <ele>226.042</ele>
+        <time>1998-06-17T09:28:25Z</time>
+      </trkpt>
+      <trkpt lat="54.687365" lon="37.705258">
+        <ele>230.227</ele>
+        <time>1998-06-17T09:31:07Z</time>
+      </trkpt>
+      <trkpt lat="54.685895" lon="37.705322">
+        <ele>234.416</ele>
+        <time>1998-06-17T09:32:58Z</time>
+      </trkpt>
+      <trkpt lat="54.683717" lon="37.704533">
+        <ele>238.482</ele>
+        <time>1998-06-17T09:35:00Z</time>
+      </trkpt>
+      <trkpt lat="54.683557" lon="37.704667">
+        <ele>240.439</ele>
+        <time>1998-06-17T09:35:13Z</time>
+      </trkpt>
+      <trkpt lat="54.683999" lon="37.710265">
+        <ele>238.219</ele>
+        <time>1998-06-17T09:37:21Z</time>
+      </trkpt>
+      <trkpt lat="54.683704" lon="37.716746">
+        <ele>242.211</ele>
+        <time>1998-06-17T09:38:44Z</time>
+      </trkpt>
+      <trkpt lat="54.683715" lon="37.724258">
+        <ele>238.021</ele>
+        <time>1998-06-17T09:39:55Z</time>
+      </trkpt>
+      <trkpt lat="54.683926" lon="37.725378">
+        <ele>238.003</ele>
+        <time>1998-06-17T09:40:06Z</time>
+      </trkpt>
+      <trkpt lat="54.684655" lon="37.727016">
+        <ele>235.808</ele>
+        <time>1998-06-17T09:40:29Z</time>
+      </trkpt>
+      <trkpt lat="54.684041" lon="37.728598">
+        <ele>233.853</ele>
+        <time>1998-06-17T09:41:09Z</time>
+      </trkpt>
+      <trkpt lat="54.684121" lon="37.729188">
+        <ele>233.016</ele>
+        <time>1998-06-17T09:42:08Z</time>
+      </trkpt>
+      <trkpt lat="54.682338" lon="37.733443">
+        <ele>229.659</ele>
+        <time>1998-06-17T09:43:36Z</time>
+      </trkpt>
+      <trkpt lat="54.681364" lon="37.736240">
+        <ele>229.664</ele>
+        <time>1998-06-17T09:44:17Z</time>
+      </trkpt>
+      <trkpt lat="54.680695" lon="37.739808">
+        <ele>225.473</ele>
+        <time>1998-06-17T09:46:08Z</time>
+      </trkpt>
+      <trkpt lat="54.678727" lon="37.747353">
+        <ele>217.869</ele>
+        <time>1998-06-17T09:48:32Z</time>
+      </trkpt>
+      <trkpt lat="54.677274" lon="37.751624">
+        <ele>210.866</ele>
+        <time>1998-06-17T09:49:49Z</time>
+      </trkpt>
+      <trkpt lat="54.676796" lon="37.752171">
+        <ele>208.886</ele>
+        <time>1998-06-17T09:50:40Z</time>
+      </trkpt>
+      <trkpt lat="54.670207" lon="37.769919">
+        <ele>223.215</ele>
+        <time>1998-06-17T10:01:23Z</time>
+      </trkpt>
+      <trkpt lat="54.665356" lon="37.779222">
+        <ele>225.265</ele>
+        <time>1998-06-17T10:04:48Z</time>
+      </trkpt>
+      <trkpt lat="54.662902" lon="37.786725">
+        <ele>225.211</ele>
+        <time>1998-06-17T10:07:03Z</time>
+      </trkpt>
+      <trkpt lat="54.660952" lon="37.793602">
+        <ele>227.208</ele>
+        <time>1998-06-17T10:09:41Z</time>
+      </trkpt>
+      <trkpt lat="54.661159" lon="37.796349">
+        <ele>227.273</ele>
+        <time>1998-06-17T10:10:27Z</time>
+      </trkpt>
+      <trkpt lat="54.663834" lon="37.811263">
+        <ele>227.076</ele>
+        <time>1998-06-17T10:20:14Z</time>
+      </trkpt>
+      <trkpt lat="54.663649" lon="37.812909">
+        <ele>224.819</ele>
+        <time>1998-06-17T10:21:48Z</time>
+      </trkpt>
+      <trkpt lat="54.664044" lon="37.815882">
+        <ele>218.664</ele>
+        <time>1998-06-17T10:23:20Z</time>
+      </trkpt>
+      <trkpt lat="54.664531" lon="37.817344">
+        <ele>216.693</ele>
+        <time>1998-06-17T10:25:55Z</time>
+      </trkpt>
+      <trkpt lat="54.665047" lon="37.818326">
+        <ele>220.649</ele>
+        <time>1998-06-17T10:27:27Z</time>
+      </trkpt>
+      <trkpt lat="54.665169" lon="37.823690">
+        <ele>226.886</ele>
+        <time>1998-06-17T10:31:44Z</time>
+      </trkpt>
+      <trkpt lat="54.665791" lon="37.828874">
+        <ele>228.886</ele>
+        <time>1998-06-17T10:33:48Z</time>
+      </trkpt>
+      <trkpt lat="54.665832" lon="37.830826">
+        <ele>228.896</ele>
+        <time>1998-06-17T10:35:08Z</time>
+      </trkpt>
+      <trkpt lat="54.666359" lon="37.833828">
+        <ele>230.831</ele>
+        <time>1998-06-17T10:37:35Z</time>
+      </trkpt>
+      <trkpt lat="54.667849" lon="37.836469">
+        <ele>232.824</ele>
+        <time>1998-06-17T10:40:02Z</time>
+      </trkpt>
+      <trkpt lat="54.668967" lon="37.839463">
+        <ele>230.808</ele>
+        <time>1998-06-17T10:41:19Z</time>
+      </trkpt>
+      <trkpt lat="54.668422" lon="37.839576">
+        <ele>230.441</ele>
+        <time>1998-06-17T10:44:15Z</time>
+      </trkpt>
+      <trkpt lat="54.667078" lon="37.841167">
+        <ele>230.434</ele>
+        <time>1998-06-17T10:45:39Z</time>
+      </trkpt>
+      <trkpt lat="54.666667" lon="37.842653">
+        <ele>230.427</ele>
+        <time>1998-06-17T10:46:17Z</time>
+      </trkpt>
+      <trkpt lat="54.665684" lon="37.843905">
+        <ele>230.482</ele>
+        <time>1998-06-17T10:47:04Z</time>
+      </trkpt>
+      <trkpt lat="54.663573" lon="37.845810">
+        <ele>230.481</ele>
+        <time>1998-06-17T10:48:21Z</time>
+      </trkpt>
+      <trkpt lat="54.663014" lon="37.846880">
+        <ele>230.467</ele>
+        <time>1998-06-17T10:48:56Z</time>
+      </trkpt>
+      <trkpt lat="54.662709" lon="37.846782">
+        <ele>230.454</ele>
+        <time>1998-06-17T10:49:10Z</time>
+      </trkpt>
+      <trkpt lat="54.662158" lon="37.847125">
+        <ele>230.474</ele>
+        <time>1998-06-17T10:49:30Z</time>
+      </trkpt>
+      <trkpt lat="54.661922" lon="37.847818">
+        <ele>230.456</ele>
+        <time>1998-06-17T10:50:47Z</time>
+      </trkpt>
+      <trkpt lat="54.660773" lon="37.847864">
+        <ele>230.459</ele>
+        <time>1998-06-17T10:51:27Z</time>
+      </trkpt>
+      <trkpt lat="54.658421" lon="37.848540">
+        <ele>228.214</ele>
+        <time>1998-06-17T10:55:50Z</time>
+      </trkpt>
+      <trkpt lat="54.655148" lon="37.848773">
+        <ele>219.608</ele>
+        <time>1998-06-17T10:58:36Z</time>
+      </trkpt>
+      <trkpt lat="54.653783" lon="37.848392">
+        <ele>213.657</ele>
+        <time>1998-06-17T10:59:16Z</time>
+      </trkpt>
+      <trkpt lat="54.653079" lon="37.848715">
+        <ele>209.260</ele>
+        <time>1998-06-17T11:00:43Z</time>
+      </trkpt>
+      <trkpt lat="54.653060" lon="37.849465">
+        <ele>209.293</ele>
+        <time>1998-06-17T11:03:28Z</time>
+      </trkpt>
+      <trkpt lat="54.651881" lon="37.850648">
+        <ele>204.848</ele>
+        <time>1998-06-17T11:05:39Z</time>
+      </trkpt>
+      <trkpt lat="54.651794" lon="37.851194">
+        <ele>202.897</ele>
+        <time>1998-06-17T11:06:23Z</time>
+      </trkpt>
+      <trkpt lat="54.651228" lon="37.850445">
+        <ele>194.443</ele>
+        <time>1998-06-17T11:08:22Z</time>
+      </trkpt>
+      <trkpt lat="54.648884" lon="37.848774">
+        <ele>206.880</ele>
+        <time>1998-06-17T11:13:47Z</time>
+      </trkpt>
+      <trkpt lat="54.648082" lon="37.847923">
+        <ele>209.070</ele>
+        <time>1998-06-17T11:14:49Z</time>
+      </trkpt>
+      <trkpt lat="54.647791" lon="37.847898">
+        <ele>211.079</ele>
+        <time>1998-06-17T11:15:06Z</time>
+      </trkpt>
+      <trkpt lat="54.647338" lon="37.849192">
+        <ele>211.005</ele>
+        <time>1998-06-17T11:15:37Z</time>
+      </trkpt>
+      <trkpt lat="54.645895" lon="37.848474">
+        <ele>213.025</ele>
+        <time>1998-06-17T11:16:32Z</time>
+      </trkpt>
+      <trkpt lat="54.645503" lon="37.849521">
+        <ele>213.008</ele>
+        <time>1998-06-17T11:17:01Z</time>
+      </trkpt>
+      <trkpt lat="54.646329" lon="37.852197">
+        <ele>211.279</ele>
+        <time>1998-06-17T11:17:57Z</time>
+      </trkpt>
+      <trkpt lat="54.646346" lon="37.852628">
+        <ele>210.452</ele>
+        <time>1998-06-17T11:18:04Z</time>
+      </trkpt>
+      <trkpt lat="54.645655" lon="37.854621">
+        <ele>206.465</ele>
+        <time>1998-06-17T11:19:15Z</time>
+      </trkpt>
+      <trkpt lat="54.645036" lon="37.855375">
+        <ele>209.070</ele>
+        <time>1998-06-17T11:20:23Z</time>
+      </trkpt>
+      <trkpt lat="54.644909" lon="37.857040">
+        <ele>214.639</ele>
+        <time>1998-06-17T11:22:18Z</time>
+      </trkpt>
+      <trkpt lat="54.644524" lon="37.858083">
+        <ele>216.895</ele>
+        <time>1998-06-17T11:22:43Z</time>
+      </trkpt>
+      <trkpt lat="54.644431" lon="37.858882">
+        <ele>218.052</ele>
+        <time>1998-06-17T11:23:00Z</time>
+      </trkpt>
+      <trkpt lat="54.638441" lon="37.866994">
+        <ele>216.852</ele>
+        <time>1998-06-17T11:27:54Z</time>
+      </trkpt>
+      <trkpt lat="54.637653" lon="37.868962">
+        <ele>216.832</ele>
+        <time>1998-06-17T11:28:41Z</time>
+      </trkpt>
+      <trkpt lat="54.637094" lon="37.871185">
+        <ele>216.892</ele>
+        <time>1998-06-17T11:29:31Z</time>
+      </trkpt>
+      <trkpt lat="54.636991" lon="37.872392">
+        <ele>214.811</ele>
+        <time>1998-06-17T11:29:52Z</time>
+      </trkpt>
+      <trkpt lat="54.637528" lon="37.883665">
+        <ele>204.008</ele>
+        <time>1998-06-17T11:35:52Z</time>
+      </trkpt>
+      <trkpt lat="54.637788" lon="37.884415">
+        <ele>199.655</ele>
+        <time>1998-06-17T11:36:17Z</time>
+      </trkpt>
+      <trkpt lat="54.637901" lon="37.888085">
+        <ele>195.448</ele>
+        <time>1998-06-17T11:37:46Z</time>
+      </trkpt>
+      <trkpt lat="54.639141" lon="37.892558">
+        <ele>187.231</ele>
+        <time>1998-06-17T11:38:43Z</time>
+      </trkpt>
+      <trkpt lat="54.638958" lon="37.893789">
+        <ele>185.226</ele>
+        <time>1998-06-17T11:39:02Z</time>
+      </trkpt>
+      <trkpt lat="54.638399" lon="37.895696">
+        <ele>185.225</ele>
+        <time>1998-06-17T11:39:36Z</time>
+      </trkpt>
+      <trkpt lat="54.638423" lon="37.901888">
+        <ele>177.451</ele>
+        <time>1998-06-17T11:41:29Z</time>
+      </trkpt>
+      <trkpt lat="54.638107" lon="37.905696">
+        <ele>168.698</ele>
+        <time>1998-06-17T11:43:38Z</time>
+      </trkpt>
+      <trkpt lat="54.637713" lon="37.906627">
+        <ele>166.688</ele>
+        <time>1998-06-17T11:44:14Z</time>
+      </trkpt>
+      <trkpt lat="54.637463" lon="37.908024">
+        <ele>162.494</ele>
+        <time>1998-06-17T11:45:34Z</time>
+      </trkpt>
+      <trkpt lat="54.636643" lon="37.910913">
+        <ele>149.657</ele>
+        <time>1998-06-17T11:47:21Z</time>
+      </trkpt>
+      <trkpt lat="54.635271" lon="37.914430">
+        <ele>158.422</ele>
+        <time>1998-06-17T11:55:08Z</time>
+      </trkpt>
+      <trkpt lat="54.629463" lon="37.924350">
+        <ele>206.008</ele>
+        <time>1998-06-17T12:06:22Z</time>
+      </trkpt>
+      <trkpt lat="54.621375" lon="37.936160">
+        <ele>228.821</ele>
+        <time>1998-06-17T12:11:49Z</time>
+      </trkpt>
+      <trkpt lat="54.617154" lon="37.941426">
+        <ele>232.864</ele>
+        <time>1998-06-17T12:14:33Z</time>
+      </trkpt>
+      <trkpt lat="54.616932" lon="37.941932">
+        <ele>235.097</ele>
+        <time>1998-06-17T12:14:49Z</time>
+      </trkpt>
+      <trkpt lat="54.617705" lon="37.943250">
+        <ele>234.232</ele>
+        <time>1998-06-17T12:15:40Z</time>
+      </trkpt>
+      <trkpt lat="54.628097" lon="37.957791">
+        <ele>226.051</ele>
+        <time>1998-06-17T12:21:44Z</time>
+      </trkpt>
+      <trkpt lat="54.628997" lon="37.958830">
+        <ele>226.857</ele>
+        <time>1998-06-17T12:22:14Z</time>
+      </trkpt>
+      <trkpt lat="54.630167" lon="37.959489">
+        <ele>228.234</ele>
+        <time>1998-06-17T12:22:40Z</time>
+      </trkpt>
+      <trkpt lat="54.635089" lon="37.960721">
+        <ele>226.014</ele>
+        <time>1998-06-17T12:23:58Z</time>
+      </trkpt>
+      <trkpt lat="54.640534" lon="37.962971">
+        <ele>228.016</ele>
+        <time>1998-06-17T12:25:58Z</time>
+      </trkpt>
+      <trkpt lat="54.640046" lon="37.964730">
+        <ele>228.076</ele>
+        <time>1998-06-17T12:26:45Z</time>
+      </trkpt>
+      <trkpt lat="54.639111" lon="37.977451">
+        <ele>218.813</ele>
+        <time>1998-06-17T12:32:25Z</time>
+      </trkpt>
+      <trkpt lat="54.638377" lon="37.981892">
+        <ele>215.608</ele>
+        <time>1998-06-17T12:34:24Z</time>
+      </trkpt>
+      <trkpt lat="54.639997" lon="37.990038">
+        <ele>207.273</ele>
+        <time>1998-06-17T12:36:26Z</time>
+      </trkpt>
+      <trkpt lat="54.640424" lon="37.991218">
+        <ele>201.016</ele>
+        <time>1998-06-17T12:42:22Z</time>
+      </trkpt>
+      <trkpt lat="54.640249" lon="37.991741">
+        <ele>201.059</ele>
+        <time>1998-06-17T12:43:49Z</time>
+      </trkpt>
+      <trkpt lat="54.640227" lon="37.992735">
+        <ele>201.074</ele>
+        <time>1998-06-17T12:46:26Z</time>
+      </trkpt>
+      <trkpt lat="54.640449" lon="37.994442">
+        <ele>201.073</ele>
+        <time>1998-06-17T12:47:10Z</time>
+      </trkpt>
+      <trkpt lat="54.642567" lon="38.001048">
+        <ele>197.019</ele>
+        <time>1998-06-17T12:49:49Z</time>
+      </trkpt>
+      <trkpt lat="54.645272" lon="38.012097">
+        <ele>184.636</ele>
+        <time>1998-06-17T12:54:59Z</time>
+      </trkpt>
+      <trkpt lat="54.645322" lon="38.013368">
+        <ele>184.626</ele>
+        <time>1998-06-17T12:55:23Z</time>
+      </trkpt>
+      <trkpt lat="54.644104" lon="38.020530">
+        <ele>184.256</ele>
+        <time>1998-06-17T12:58:37Z</time>
+      </trkpt>
+      <trkpt lat="54.648010" lon="38.026221">
+        <ele>191.859</ele>
+        <time>1998-06-17T13:01:18Z</time>
+      </trkpt>
+      <trkpt lat="54.651774" lon="38.033639">
+        <ele>189.614</ele>
+        <time>1998-06-17T13:06:00Z</time>
+      </trkpt>
+      <trkpt lat="54.652929" lon="38.034738">
+        <ele>179.208</ele>
+        <time>1998-06-17T13:07:03Z</time>
+      </trkpt>
+      <trkpt lat="54.653946" lon="38.036765">
+        <ele>166.047</ele>
+        <time>1998-06-17T13:08:18Z</time>
+      </trkpt>
+      <trkpt lat="54.654868" lon="38.038178">
+        <ele>157.470</ele>
+        <time>1998-06-17T13:09:21Z</time>
+      </trkpt>
+      <trkpt lat="54.654803" lon="38.039167">
+        <ele>153.223</ele>
+        <time>1998-06-17T13:10:20Z</time>
+      </trkpt>
+      <trkpt lat="54.654468" lon="38.039874">
+        <ele>149.658</ele>
+        <time>1998-06-17T13:12:14Z</time>
+      </trkpt>
+      <trkpt lat="54.653889" lon="38.039649">
+        <ele>142.837</ele>
+        <time>1998-06-17T13:13:22Z</time>
+      </trkpt>
+      <trkpt lat="54.653144" lon="38.040412">
+        <ele>136.623</ele>
+        <time>1998-06-17T13:18:46Z</time>
+      </trkpt>
+      <trkpt lat="54.653302" lon="38.040699">
+        <ele>136.620</ele>
+        <time>1998-06-17T13:19:07Z</time>
+      </trkpt>
+      <trkpt lat="54.653158" lon="38.040427">
+        <ele>136.620</ele>
+        <time>1998-06-17T13:20:18Z</time>
+      </trkpt>
+      <trkpt lat="54.652303" lon="38.040212">
+        <ele>138.844</ele>
+        <time>1998-06-17T13:21:27Z</time>
+      </trkpt>
+      <trkpt lat="54.652357" lon="38.041177">
+        <ele>146.805</ele>
+        <time>1998-06-17T13:22:56Z</time>
+      </trkpt>
+      <trkpt lat="54.650761" lon="38.042514">
+        <ele>160.815</ele>
+        <time>1998-06-17T13:25:49Z</time>
+      </trkpt>
+      <trkpt lat="54.650354" lon="38.043158">
+        <ele>163.608</ele>
+        <time>1998-06-17T13:26:50Z</time>
+      </trkpt>
+      <trkpt lat="54.650095" lon="38.044173">
+        <ele>167.826</ele>
+        <time>1998-06-17T13:27:40Z</time>
+      </trkpt>
+      <trkpt lat="54.649915" lon="38.048063">
+        <ele>181.669</ele>
+        <time>1998-06-17T13:31:40Z</time>
+      </trkpt>
+      <trkpt lat="54.649510" lon="38.048699">
+        <ele>184.432</ele>
+        <time>1998-06-17T13:32:56Z</time>
+      </trkpt>
+      <trkpt lat="54.649818" lon="38.048758">
+        <ele>186.477</ele>
+        <time>1998-06-17T13:34:02Z</time>
+      </trkpt>
+      <trkpt lat="54.649721" lon="38.048775">
+        <ele>186.426</ele>
+        <time>1998-06-17T13:34:40Z</time>
+      </trkpt>
+      <trkpt lat="54.649801" lon="38.048593">
+        <ele>186.482</ele>
+        <time>1998-06-17T13:35:51Z</time>
+      </trkpt>
+      <trkpt lat="54.649188" lon="38.049302">
+        <ele>186.469</ele>
+        <time>1998-06-17T13:38:46Z</time>
+      </trkpt>
+      <trkpt lat="54.648824" lon="38.050731">
+        <ele>190.649</ele>
+        <time>1998-06-17T13:40:01Z</time>
+      </trkpt>
+      <trkpt lat="54.648120" lon="38.050687">
+        <ele>192.646</ele>
+        <time>1998-06-17T13:40:52Z</time>
+      </trkpt>
+      <trkpt lat="54.648626" lon="38.050928">
+        <ele>192.688</ele>
+        <time>1998-06-17T13:41:15Z</time>
+      </trkpt>
+      <trkpt lat="54.647648" lon="38.051797">
+        <ele>194.816</ele>
+        <time>1998-06-17T13:41:51Z</time>
+      </trkpt>
+      <trkpt lat="54.644518" lon="38.057386">
+        <ele>205.008</ele>
+        <time>1998-06-17T13:44:01Z</time>
+      </trkpt>
+      <trkpt lat="54.642811" lon="38.061000">
+        <ele>209.456</ele>
+        <time>1998-06-17T13:45:07Z</time>
+      </trkpt>
+      <trkpt lat="54.641331" lon="38.064691">
+        <ele>209.419</ele>
+        <time>1998-06-17T13:47:17Z</time>
+      </trkpt>
+      <trkpt lat="54.640307" lon="38.066467">
+        <ele>211.042</ele>
+        <time>1998-06-17T13:47:50Z</time>
+      </trkpt>
+      <trkpt lat="54.639845" lon="38.066905">
+        <ele>211.457</ele>
+        <time>1998-06-17T13:48:06Z</time>
+      </trkpt>
+      <trkpt lat="54.637830" lon="38.072107">
+        <ele>217.476</ele>
+        <time>1998-06-17T13:49:50Z</time>
+      </trkpt>
+      <trkpt lat="54.637156" lon="38.073490">
+        <ele>217.492</ele>
+        <time>1998-06-17T13:50:21Z</time>
+      </trkpt>
+      <trkpt lat="54.636348" lon="38.077258">
+        <ele>217.419</ele>
+        <time>1998-06-17T13:51:30Z</time>
+      </trkpt>
+      <trkpt lat="54.634075" lon="38.084866">
+        <ele>217.429</ele>
+        <time>1998-06-17T13:55:21Z</time>
+      </trkpt>
+      <trkpt lat="54.633879" lon="38.087999">
+        <ele>215.415</ele>
+        <time>1998-06-17T13:57:07Z</time>
+      </trkpt>
+      <trkpt lat="54.634306" lon="38.094115">
+        <ele>217.465</ele>
+        <time>1998-06-17T13:58:44Z</time>
+      </trkpt>
+      <trkpt lat="54.634754" lon="38.096146">
+        <ele>217.411</ele>
+        <time>1998-06-17T13:59:53Z</time>
+      </trkpt>
+      <trkpt lat="54.634683" lon="38.096905">
+        <ele>217.408</ele>
+        <time>1998-06-17T14:01:14Z</time>
+      </trkpt>
+      <trkpt lat="54.634859" lon="38.099821">
+        <ele>221.633</ele>
+        <time>1998-06-17T14:02:50Z</time>
+      </trkpt>
+      <trkpt lat="54.634198" lon="38.103298">
+        <ele>223.676</ele>
+        <time>1998-06-17T14:05:16Z</time>
+      </trkpt>
+      <trkpt lat="54.633946" lon="38.105707">
+        <ele>223.649</ele>
+        <time>1998-06-17T14:05:54Z</time>
+      </trkpt>
+      <trkpt lat="54.632804" lon="38.112928">
+        <ele>219.224</ele>
+        <time>1998-06-17T14:08:30Z</time>
+      </trkpt>
+      <trkpt lat="54.632385" lon="38.114106">
+        <ele>219.243</ele>
+        <time>1998-06-17T14:10:03Z</time>
+      </trkpt>
+      <trkpt lat="54.632575" lon="38.119732">
+        <ele>217.259</ele>
+        <time>1998-06-17T14:12:34Z</time>
+      </trkpt>
+      <trkpt lat="54.632843" lon="38.120774">
+        <ele>217.286</ele>
+        <time>1998-06-17T14:13:01Z</time>
+      </trkpt>
+      <trkpt lat="54.632698" lon="38.124337">
+        <ele>217.256</ele>
+        <time>1998-06-17T14:14:12Z</time>
+      </trkpt>
+      <trkpt lat="54.632313" lon="38.128279">
+        <ele>215.225</ele>
+        <time>1998-06-17T14:16:03Z</time>
+      </trkpt>
+      <trkpt lat="54.632292" lon="38.135817">
+        <ele>209.026</ele>
+        <time>1998-06-17T14:18:42Z</time>
+      </trkpt>
+      <trkpt lat="54.632953" lon="38.138892">
+        <ele>207.008</ele>
+        <time>1998-06-17T14:19:42Z</time>
+      </trkpt>
+      <trkpt lat="54.633446" lon="38.139511">
+        <ele>204.808</ele>
+        <time>1998-06-17T14:20:31Z</time>
+      </trkpt>
+      <trkpt lat="54.633549" lon="38.140637">
+        <ele>204.834</ele>
+        <time>1998-06-17T14:21:28Z</time>
+      </trkpt>
+      <trkpt lat="54.636773" lon="38.148609">
+        <ele>206.887</ele>
+        <time>1998-06-17T14:24:48Z</time>
+      </trkpt>
+      <trkpt lat="54.637111" lon="38.150257">
+        <ele>206.860</ele>
+        <time>1998-06-17T14:25:53Z</time>
+      </trkpt>
+      <trkpt lat="54.636821" lon="38.152053">
+        <ele>206.835</ele>
+        <time>1998-06-17T14:27:16Z</time>
+      </trkpt>
+      <trkpt lat="54.636160" lon="38.153123">
+        <ele>204.824</ele>
+        <time>1998-06-17T14:31:12Z</time>
+      </trkpt>
+      <trkpt lat="54.635833" lon="38.154000">
+        <ele>202.850</ele>
+        <time>1998-06-17T14:31:31Z</time>
+      </trkpt>
+      <trkpt lat="54.637982" lon="38.157978">
+        <ele>204.867</ele>
+        <time>1998-06-17T14:33:58Z</time>
+      </trkpt>
+      <trkpt lat="54.638160" lon="38.158831">
+        <ele>207.087</ele>
+        <time>1998-06-17T14:34:19Z</time>
+      </trkpt>
+      <trkpt lat="54.636115" lon="38.159246">
+        <ele>207.015</ele>
+        <time>1998-06-17T14:35:32Z</time>
+      </trkpt>
+      <trkpt lat="54.636401" lon="38.159299">
+        <ele>209.065</ele>
+        <time>1998-06-17T14:36:25Z</time>
+      </trkpt>
+      <trkpt lat="54.636472" lon="38.160295">
+        <ele>211.611</ele>
+        <time>1998-06-17T14:39:21Z</time>
+      </trkpt>
+      <trkpt lat="54.636174" lon="38.160417">
+        <ele>209.408</ele>
+        <time>1998-06-17T14:39:36Z</time>
+      </trkpt>
+      <trkpt lat="54.654504" lon="38.156269">
+        <ele>209.493</ele>
+        <time>1998-06-17T14:45:19Z</time>
+      </trkpt>
+      <trkpt lat="54.655276" lon="38.156637">
+        <ele>211.626</ele>
+        <time>1998-06-17T14:45:44Z</time>
+      </trkpt>
+      <trkpt lat="54.655881" lon="38.155975">
+        <ele>212.639</ele>
+        <time>1998-06-17T14:53:10Z</time>
+      </trkpt>
+      <trkpt lat="54.659284" lon="38.155234">
+        <ele>212.654</ele>
+        <time>1998-06-17T14:54:19Z</time>
+      </trkpt>
+      <trkpt lat="54.662225" lon="38.161176">
+        <ele>204.423</ele>
+        <time>1998-06-17T14:56:09Z</time>
+      </trkpt>
+      <trkpt lat="54.662995" lon="38.163294">
+        <ele>202.459</ele>
+        <time>1998-06-17T14:56:34Z</time>
+      </trkpt>
+      <trkpt lat="54.662957" lon="38.163830">
+        <ele>202.486</ele>
+        <time>1998-06-17T14:56:46Z</time>
+      </trkpt>
+      <trkpt lat="54.663055" lon="38.163451">
+        <ele>202.496</ele>
+        <time>1998-06-17T14:57:15Z</time>
+      </trkpt>
+      <trkpt lat="54.666866" lon="38.171783">
+        <ele>206.641</ele>
+        <time>1998-06-17T14:59:29Z</time>
+      </trkpt>
+      <trkpt lat="54.667872" lon="38.173141">
+        <ele>204.681</ele>
+        <time>1998-06-17T14:59:59Z</time>
+      </trkpt>
+      <trkpt lat="54.667852" lon="38.173500">
+        <ele>204.609</ele>
+        <time>1998-06-17T15:00:07Z</time>
+      </trkpt>
+      <trkpt lat="54.668047" lon="38.173423">
+        <ele>204.208</ele>
+        <time>1998-06-17T15:00:14Z</time>
+      </trkpt>
+      <trkpt lat="54.668287" lon="38.173959">
+        <ele>202.656</ele>
+        <time>1998-06-17T15:00:22Z</time>
+      </trkpt>
+      <trkpt lat="54.668259" lon="38.174490">
+        <ele>200.499</ele>
+        <time>1998-06-17T15:00:30Z</time>
+      </trkpt>
+      <trkpt lat="54.666548" lon="38.176365">
+        <ele>202.412</ele>
+        <time>1998-06-17T15:01:14Z</time>
+      </trkpt>
+      <trkpt lat="54.665462" lon="38.177882">
+        <ele>206.827</ele>
+        <time>1998-06-17T15:01:53Z</time>
+      </trkpt>
+      <trkpt lat="54.665487" lon="38.178729">
+        <ele>206.856</ele>
+        <time>1998-06-17T15:02:10Z</time>
+      </trkpt>
+      <trkpt lat="54.665764" lon="38.179695">
+        <ele>206.832</ele>
+        <time>1998-06-17T15:02:29Z</time>
+      </trkpt>
+      <trkpt lat="54.664919" lon="38.181579">
+        <ele>210.889</ele>
+        <time>1998-06-17T15:03:16Z</time>
+      </trkpt>
+      <trkpt lat="54.664707" lon="38.184627">
+        <ele>212.889</ele>
+        <time>1998-06-17T15:04:17Z</time>
+      </trkpt>
+      <trkpt lat="54.664185" lon="38.187901">
+        <ele>212.838</ele>
+        <time>1998-06-17T15:05:45Z</time>
+      </trkpt>
+      <trkpt lat="54.664168" lon="38.189675">
+        <ele>210.670</ele>
+        <time>1998-06-17T15:06:09Z</time>
+      </trkpt>
+      <trkpt lat="54.663962" lon="38.190679">
+        <ele>210.617</ele>
+        <time>1998-06-17T15:06:26Z</time>
+      </trkpt>
+      <trkpt lat="54.664035" lon="38.193839">
+        <ele>208.608</ele>
+        <time>1998-06-17T15:07:52Z</time>
+      </trkpt>
+      <trkpt lat="54.663455" lon="38.194378">
+        <ele>208.675</ele>
+        <time>1998-06-17T15:08:14Z</time>
+      </trkpt>
+      <trkpt lat="54.663047" lon="38.197544">
+        <ele>208.638</ele>
+        <time>1998-06-17T15:09:06Z</time>
+      </trkpt>
+      <trkpt lat="54.662522" lon="38.199910">
+        <ele>208.651</ele>
+        <time>1998-06-17T15:09:46Z</time>
+      </trkpt>
+      <trkpt lat="54.662064" lon="38.200745">
+        <ele>208.636</ele>
+        <time>1998-06-17T15:10:03Z</time>
+      </trkpt>
+      <trkpt lat="54.659026" lon="38.210293">
+        <ele>210.645</ele>
+        <time>1998-06-17T15:12:54Z</time>
+      </trkpt>
+      <trkpt lat="54.658780" lon="38.210331">
+        <ele>210.631</ele>
+        <time>1998-06-17T15:13:05Z</time>
+      </trkpt>
+      <trkpt lat="54.658634" lon="38.210739">
+        <ele>210.638</ele>
+        <time>1998-06-17T15:13:18Z</time>
+      </trkpt>
+      <trkpt lat="54.658517" lon="38.213228">
+        <ele>208.658</ele>
+        <time>1998-06-17T15:15:56Z</time>
+      </trkpt>
+      <trkpt lat="54.658954" lon="38.214445">
+        <ele>208.646</ele>
+        <time>1998-06-17T15:17:04Z</time>
+      </trkpt>
+      <trkpt lat="54.658823" lon="38.220780">
+        <ele>202.688</ele>
+        <time>1998-06-17T15:20:25Z</time>
+      </trkpt>
+      <trkpt lat="54.658006" lon="38.224869">
+        <ele>208.816</ele>
+        <time>1998-06-17T15:21:59Z</time>
+      </trkpt>
+      <trkpt lat="54.658302" lon="38.225625">
+        <ele>208.808</ele>
+        <time>1998-06-17T15:23:06Z</time>
+      </trkpt>
+      <trkpt lat="54.658530" lon="38.231292">
+        <ele>206.656</ele>
+        <time>1998-06-17T15:24:35Z</time>
+      </trkpt>
+      <trkpt lat="54.659216" lon="38.234210">
+        <ele>206.699</ele>
+        <time>1998-06-17T15:26:00Z</time>
+      </trkpt>
+      <trkpt lat="54.658853" lon="38.235046">
+        <ele>206.662</ele>
+        <time>1998-06-17T15:26:19Z</time>
+      </trkpt>
+      <trkpt lat="54.658283" lon="38.234801">
+        <ele>204.697</ele>
+        <time>1998-06-17T15:26:36Z</time>
+      </trkpt>
+      <trkpt lat="54.657907" lon="38.236765">
+        <ele>201.416</ele>
+        <time>1998-06-17T15:29:00Z</time>
+      </trkpt>
+      <trkpt lat="54.658131" lon="38.237330">
+        <ele>200.442</ele>
+        <time>1998-06-17T15:29:53Z</time>
+      </trkpt>
+      <trkpt lat="54.659231" lon="38.238081">
+        <ele>202.479</ele>
+        <time>1998-06-17T15:31:42Z</time>
+      </trkpt>
+      <trkpt lat="54.659337" lon="38.237832">
+        <ele>203.829</ele>
+        <time>1998-06-17T15:32:02Z</time>
+      </trkpt>
+      <trkpt lat="54.661331" lon="38.238853">
+        <ele>204.631</ele>
+        <time>1998-06-17T15:33:03Z</time>
+      </trkpt>
+      <trkpt lat="54.662496" lon="38.239184">
+        <ele>204.661</ele>
+        <time>1998-06-17T15:34:23Z</time>
+      </trkpt>
+      <trkpt lat="54.664690" lon="38.242651">
+        <ele>208.607</ele>
+        <time>1998-06-17T15:38:27Z</time>
+      </trkpt>
+      <trkpt lat="54.665385" lon="38.244131">
+        <ele>208.608</ele>
+        <time>1998-06-17T15:40:15Z</time>
+      </trkpt>
+      <trkpt lat="54.665571" lon="38.244008">
+        <ele>208.615</ele>
+        <time>1998-06-17T15:41:06Z</time>
+      </trkpt>
+      <trkpt lat="54.665385" lon="38.244104">
+        <ele>209.288</ele>
+        <time>1998-06-17T15:53:19Z</time>
+      </trkpt>
+      <trkpt lat="54.665675" lon="38.244830">
+        <ele>209.221</ele>
+        <time>1998-06-17T15:54:06Z</time>
+      </trkpt>
+      <trkpt lat="54.667221" lon="38.247138">
+        <ele>205.016</ele>
+        <time>1998-06-17T15:57:19Z</time>
+      </trkpt>
+      <trkpt lat="54.667211" lon="38.247344">
+        <ele>205.055</ele>
+        <time>1998-06-17T15:57:33Z</time>
+      </trkpt>
+      <trkpt lat="54.667647" lon="38.247808">
+        <ele>205.091</ele>
+        <time>1998-06-17T15:58:36Z</time>
+      </trkpt>
+      <trkpt lat="54.668088" lon="38.247673">
+        <ele>203.068</ele>
+        <time>1998-06-17T15:59:17Z</time>
+      </trkpt>
+      <trkpt lat="54.668903" lon="38.248781">
+        <ele>201.448</ele>
+        <time>1998-06-17T16:00:54Z</time>
+      </trkpt>
+      <trkpt lat="54.669505" lon="38.249219">
+        <ele>197.642</ele>
+        <time>1998-06-17T16:02:06Z</time>
+      </trkpt>
+      <trkpt lat="54.669586" lon="38.249905">
+        <ele>196.822</ele>
+        <time>1998-06-17T16:03:06Z</time>
+      </trkpt>
+      <trkpt lat="54.668820" lon="38.251550">
+        <ele>196.814</ele>
+        <time>1998-06-17T16:04:59Z</time>
+      </trkpt>
+      <trkpt lat="54.668838" lon="38.254246">
+        <ele>196.808</ele>
+        <time>1998-06-17T16:06:17Z</time>
+      </trkpt>
+      <trkpt lat="54.669319" lon="38.256889">
+        <ele>196.826</ele>
+        <time>1998-06-17T16:08:00Z</time>
+      </trkpt>
+      <trkpt lat="54.669659" lon="38.256943">
+        <ele>196.829</ele>
+        <time>1998-06-17T16:08:13Z</time>
+      </trkpt>
+      <trkpt lat="54.671785" lon="38.255584">
+        <ele>196.832</ele>
+        <time>1998-06-17T16:11:01Z</time>
+      </trkpt>
+      <trkpt lat="54.672231" lon="38.254960">
+        <ele>203.247</ele>
+        <time>1998-06-17T16:12:15Z</time>
+      </trkpt>
+      <trkpt lat="54.676159" lon="38.252170">
+        <ele>209.686</ele>
+        <time>1998-06-17T16:15:22Z</time>
+      </trkpt>
+      <trkpt lat="54.677976" lon="38.250054">
+        <ele>209.662</ele>
+        <time>1998-06-17T16:16:22Z</time>
+      </trkpt>
+      <trkpt lat="54.682142" lon="38.241737">
+        <ele>211.619</ele>
+        <time>1998-06-17T16:18:12Z</time>
+      </trkpt>
+      <trkpt lat="54.682435" lon="38.241875">
+        <ele>209.899</ele>
+        <time>1998-06-17T16:18:17Z</time>
+      </trkpt>
+      <trkpt lat="54.688081" lon="38.224758">
+        <ele>213.057</ele>
+        <time>1998-06-17T16:22:37Z</time>
+      </trkpt>
+      <trkpt lat="54.688934" lon="38.223220">
+        <ele>211.400</ele>
+        <time>1998-06-17T16:23:43Z</time>
+      </trkpt>
+      <trkpt lat="54.690698" lon="38.221295">
+        <ele>209.220</ele>
+        <time>1998-06-17T16:24:15Z</time>
+      </trkpt>
+      <trkpt lat="54.692089" lon="38.220572">
+        <ele>207.208</ele>
+        <time>1998-06-17T16:25:08Z</time>
+      </trkpt>
+      <trkpt lat="54.716312" lon="38.217240">
+        <ele>208.417</ele>
+        <time>1998-06-17T16:33:32Z</time>
+      </trkpt>
+      <trkpt lat="54.724011" lon="38.215900">
+        <ele>212.670</ele>
+        <time>1998-06-17T16:36:10Z</time>
+      </trkpt>
+      <trkpt lat="54.725501" lon="38.215997">
+        <ele>212.613</ele>
+        <time>1998-06-17T16:36:35Z</time>
+      </trkpt>
+      <trkpt lat="54.726514" lon="38.216416">
+        <ele>210.458</ele>
+        <time>1998-06-17T16:36:52Z</time>
+      </trkpt>
+      <trkpt lat="54.727749" lon="38.217300">
+        <ele>208.477</ele>
+        <time>1998-06-17T16:37:20Z</time>
+      </trkpt>
+      <trkpt lat="54.728868" lon="38.218603">
+        <ele>210.613</ele>
+        <time>1998-06-17T16:37:53Z</time>
+      </trkpt>
+      <trkpt lat="54.741539" lon="38.239751">
+        <ele>187.490</ele>
+        <time>1998-06-17T16:45:08Z</time>
+      </trkpt>
+      <trkpt lat="54.744402" lon="38.245111">
+        <ele>193.640</ele>
+        <time>1998-06-17T16:47:26Z</time>
+      </trkpt>
+      <trkpt lat="54.745520" lon="38.248260">
+        <ele>195.218</ele>
+        <time>1998-06-17T16:48:14Z</time>
+      </trkpt>
+      <trkpt lat="54.746542" lon="38.253902">
+        <ele>203.898</ele>
+        <time>1998-06-17T16:49:53Z</time>
+      </trkpt>
+      <trkpt lat="54.747477" lon="38.257862">
+        <ele>206.017</ele>
+        <time>1998-06-17T16:50:54Z</time>
+      </trkpt>
+      <trkpt lat="54.749913" lon="38.264106">
+        <ele>203.808</ele>
+        <time>1998-06-17T16:52:17Z</time>
+      </trkpt>
+      <trkpt lat="54.762844" lon="38.275398">
+        <ele>214.223</ele>
+        <time>1998-06-17T17:01:19Z</time>
+      </trkpt>
+      <trkpt lat="54.763341" lon="38.276340">
+        <ele>216.266</ele>
+        <time>1998-06-17T17:01:42Z</time>
+      </trkpt>
+      <trkpt lat="54.763720" lon="38.276178">
+        <ele>216.259</ele>
+        <time>1998-06-17T17:02:03Z</time>
+      </trkpt>
+      <trkpt lat="54.764839" lon="38.277090">
+        <ele>220.464</ele>
+        <time>1998-06-17T17:02:47Z</time>
+      </trkpt>
+      <trkpt lat="54.767174" lon="38.274242">
+        <ele>222.473</ele>
+        <time>1998-06-17T17:04:17Z</time>
+      </trkpt>
+      <trkpt lat="54.770353" lon="38.268470">
+        <ele>226.619</ele>
+        <time>1998-06-17T17:11:31Z</time>
+      </trkpt>
+      <trkpt lat="54.771206" lon="38.267856">
+        <ele>224.256</ele>
+        <time>1998-06-17T17:11:44Z</time>
+      </trkpt>
+      <trkpt lat="54.777874" lon="38.271112">
+        <ele>209.446</ele>
+        <time>1998-06-17T17:13:23Z</time>
+      </trkpt>
+      <trkpt lat="54.779035" lon="38.272641">
+        <ele>211.454</ele>
+        <time>1998-06-17T17:14:04Z</time>
+      </trkpt>
+      <trkpt lat="54.779786" lon="38.273147">
+        <ele>211.456</ele>
+        <time>1998-06-17T17:14:20Z</time>
+      </trkpt>
+      <trkpt lat="54.783085" lon="38.274476">
+        <ele>209.411</ele>
+        <time>1998-06-17T17:15:16Z</time>
+      </trkpt>
+      <trkpt lat="54.787714" lon="38.275585">
+        <ele>207.208</ele>
+        <time>1998-06-17T17:16:39Z</time>
+      </trkpt>
+      <trkpt lat="54.788112" lon="38.275500">
+        <ele>207.277</ele>
+        <time>1998-06-17T17:16:47Z</time>
+      </trkpt>
+      <trkpt lat="54.788819" lon="38.274267">
+        <ele>205.420</ele>
+        <time>1998-06-17T17:17:04Z</time>
+      </trkpt>
+      <trkpt lat="54.789517" lon="38.273695">
+        <ele>205.043</ele>
+        <time>1998-06-17T17:17:17Z</time>
+      </trkpt>
+      <trkpt lat="54.792276" lon="38.273471">
+        <ele>207.298</ele>
+        <time>1998-06-17T17:18:14Z</time>
+      </trkpt>
+      <trkpt lat="54.793575" lon="38.272796">
+        <ele>209.257</ele>
+        <time>1998-06-17T17:18:50Z</time>
+      </trkpt>
+      <trkpt lat="54.793873" lon="38.272439">
+        <ele>209.253</ele>
+        <time>1998-06-17T17:18:58Z</time>
+      </trkpt>
+      <trkpt lat="54.794388" lon="38.266573">
+        <ele>215.420</ele>
+        <time>1998-06-17T17:20:32Z</time>
+      </trkpt>
+      <trkpt lat="54.795789" lon="38.266762">
+        <ele>215.490</ele>
+        <time>1998-06-17T17:21:03Z</time>
+      </trkpt>
+      <trkpt lat="54.797445" lon="38.265525">
+        <ele>215.481</ele>
+        <time>1998-06-17T17:21:37Z</time>
+      </trkpt>
+      <trkpt lat="54.798790" lon="38.265785">
+        <ele>215.461</ele>
+        <time>1998-06-17T17:22:07Z</time>
+      </trkpt>
+      <trkpt lat="54.799646" lon="38.265640">
+        <ele>215.417</ele>
+        <time>1998-06-17T17:22:26Z</time>
+      </trkpt>
+      <trkpt lat="54.804009" lon="38.262150">
+        <ele>202.208</ele>
+        <time>1998-06-17T17:23:54Z</time>
+      </trkpt>
+      <trkpt lat="54.804552" lon="38.260949">
+        <ele>200.070</ele>
+        <time>1998-06-17T17:24:12Z</time>
+      </trkpt>
+      <trkpt lat="54.805246" lon="38.260167">
+        <ele>204.283</ele>
+        <time>1998-06-17T17:24:42Z</time>
+      </trkpt>
+      <trkpt lat="54.811814" lon="38.257006">
+        <ele>216.666</ele>
+        <time>1998-06-17T17:27:41Z</time>
+      </trkpt>
+      <trkpt lat="54.811896" lon="38.256473">
+        <ele>218.851</ele>
+        <time>1998-06-17T17:27:49Z</time>
+      </trkpt>
+      <trkpt lat="54.811569" lon="38.240975">
+        <ele>214.610</ele>
+        <time>1998-06-17T17:30:06Z</time>
+      </trkpt>
+      <trkpt lat="54.815039" lon="38.240904">
+        <ele>214.696</ele>
+        <time>1998-06-17T17:31:12Z</time>
+      </trkpt>
+      <trkpt lat="54.816867" lon="38.242825">
+        <ele>212.433</ele>
+        <time>1998-06-17T17:31:50Z</time>
+      </trkpt>
+      <trkpt lat="54.817200" lon="38.242847">
+        <ele>212.453</ele>
+        <time>1998-06-17T17:31:56Z</time>
+      </trkpt>
+      <trkpt lat="54.821417" lon="38.232145">
+        <ele>210.414</ele>
+        <time>1998-06-17T17:34:10Z</time>
+      </trkpt>
+      <trkpt lat="54.823365" lon="38.236144">
+        <ele>202.854</ele>
+        <time>1998-06-17T17:34:57Z</time>
+      </trkpt>
+      <trkpt lat="54.825612" lon="38.239393">
+        <ele>199.809</ele>
+        <time>1998-06-17T17:35:47Z</time>
+      </trkpt>
+      <trkpt lat="54.827148" lon="38.240395">
+        <ele>197.808</ele>
+        <time>1998-06-17T17:36:26Z</time>
+      </trkpt>
+      <trkpt lat="54.829527" lon="38.243574">
+        <ele>185.253</ele>
+        <time>1998-06-17T17:37:30Z</time>
+      </trkpt>
+      <trkpt lat="54.829846" lon="38.244303">
+        <ele>181.096</ele>
+        <time>1998-06-17T17:37:45Z</time>
+      </trkpt>
+      <trkpt lat="54.829793" lon="38.244828">
+        <ele>179.039</ele>
+        <time>1998-06-17T17:38:17Z</time>
+      </trkpt>
+      <trkpt lat="54.831144" lon="38.242367">
+        <ele>177.014</ele>
+        <time>1998-06-17T17:40:02Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>

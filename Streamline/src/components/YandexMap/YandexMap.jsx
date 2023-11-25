@@ -5,8 +5,10 @@ import {
   Map,
   FullscreenControl,
   GeoObject,
+  Polyline,
 } from "@pbe/react-yandex-maps";
-
+import trail from "../../resources/trails/gorodskoi-bor.gpx";
+// import trail from "../../resources/trails/moskva-pushchino-tesna-june-16-mmxviii.gpx";
 const API_KEY = "8ad44015-6f2d-4403-92cb-4daa45aff76c";
 
 const defaultMapState = {
@@ -19,18 +21,60 @@ const mapState = {
   zoom: 12,
 };
 
-const YandexMap = () => (
-  <div>
-    <YMaps
-      query={{
-        apikey: API_KEY,
-      }}
-    >
-      <Map className="map" state={mapState} defaultState={defaultMapState}>
-        <FullscreenControl />
-      </Map>
-    </YMaps>
-  </div>
-);
+const YandexMap = () => {
+  const [positions, setPositions] = useState("s");
+  let gpxParser = require("gpxparser");
+  var gpx = new gpxParser();
+
+  const componentDidMount = async () => {
+    // GET request using fetch with async/await
+    const response = await fetch(trail, { metod: "POST" });
+    const gpxDemo = await response.text();
+    gpx.parse(gpxDemo);
+    setPositions(gpx.tracks[0].points.map((p) => [p.lat, p.lon]));
+    // console.log(gpx.tracks[0].points[0].lat);
+    console.log(positions);
+  };
+  // componentDidMount();
+  // console.log(positions);
+  // fetch(trail)
+  //   .then((response) => {
+  //     return response.text();
+  //   })
+  //   .then((path) => {
+  //     let gpxDemo = path;
+  //     gpx.parse(gpxDemo);
+  //     return setPositions(gpx.tracks[0].points.map((p) => [p.lat, p.lon]));
+  //     // console.log(gpx.tracks[0].points[0].lat);
+  //   });
+  // console.log(positions);
+  return (
+    <div>
+      <YMaps
+        query={{
+          apikey: API_KEY,
+        }}
+      >
+        <Map className="map" state={mapState} defaultState={defaultMapState}>
+          <FullscreenControl />
+          <Polyline
+            geometry={[
+              [55.8, 37.5],
+              [55.8, 37.4],
+              [55.7, 37.5],
+              [55.7, 37.4],
+            ]}
+            options={{
+              balloonCloseButton: false,
+              strokeColor: "#000",
+              strokeWidth: 4,
+              strokeOpacity: 0.5,
+            }}
+          />
+        </Map>
+      </YMaps>
+    </div>
+  );
+};
 
 export default YandexMap;
