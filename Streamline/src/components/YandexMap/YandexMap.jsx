@@ -58,12 +58,7 @@ const YandexMap = () => {
         <Map className="map" state={mapState} defaultState={defaultMapState}>
           <FullscreenControl />
           <Polyline
-            geometry={[
-              [55.8, 37.5],
-              [55.8, 37.4],
-              [55.7, 37.5],
-              [55.7, 37.4],
-            ]}
+            geometry={positions}
             options={{
               balloonCloseButton: false,
               strokeColor: "#000",
