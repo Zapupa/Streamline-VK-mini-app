@@ -22,32 +22,20 @@ const mapState = {
 };
 
 const YandexMap = () => {
-  const [positions, setPositions] = useState("s");
+  const [positions, setPositions] = useState("");
   let gpxParser = require("gpxparser");
   var gpx = new gpxParser();
 
   const componentDidMount = async () => {
-    // GET request using fetch with async/await
     const response = await fetch(trail, { metod: "POST" });
     const gpxDemo = await response.text();
+
     gpx.parse(gpxDemo);
     setPositions(gpx.tracks[0].points.map((p) => [p.lat, p.lon]));
-    // console.log(gpx.tracks[0].points[0].lat);
+
     console.log(positions);
   };
-  // componentDidMount();
-  // console.log(positions);
-  // fetch(trail)
-  //   .then((response) => {
-  //     return response.text();
-  //   })
-  //   .then((path) => {
-  //     let gpxDemo = path;
-  //     gpx.parse(gpxDemo);
-  //     return setPositions(gpx.tracks[0].points.map((p) => [p.lat, p.lon]));
-  //     // console.log(gpx.tracks[0].points[0].lat);
-  //   });
-  // console.log(positions);
+
   return (
     <div>
       <YMaps

@@ -22,13 +22,16 @@ const Home = ({ id, go, fetchedUser }) => (
     <PanelHeader before={<PanelHeaderButton>Город</PanelHeaderButton>}>
       Streamline
     </PanelHeader>
-    <Group className="main" header={<Header mode="secondary">Карта</Header>}>
-      <div className="main-map">
-        <Div className="map">
-          <YandexMap />
-        </Div>
-        <Div>Маршруты тут</Div>
-      </div>
+    <div className="main-map">
+      <YandexMap />
+    </div>
+    <Group
+      className="main-trail"
+      header={<Header mode="secondary">Карта</Header>}
+    >
+      <Button stretched size="l" mode="secondary">
+        Маршрут
+      </Button>
     </Group>
 
     <Group header={<Header mode="secondary">Navigation Example</Header>}>
