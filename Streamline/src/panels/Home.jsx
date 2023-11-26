@@ -1,6 +1,5 @@
 import "./Home.css";
 
-import React from "react";
 import PropTypes from "prop-types";
 
 import {
@@ -17,38 +16,34 @@ import {
 
 import YandexMap from "../components/YandexMap/YandexMap";
 
-const Home = ({ id, go, fetchedUser }) => (
-  <Panel id={id}>
-    <PanelHeader before={<PanelHeaderButton>Город</PanelHeaderButton>}>
-      Streamline
-    </PanelHeader>
-    <div className="main-map">
-      <YandexMap />
-    </div>
-    <Group
-      className="main-trail"
-      header={<Header mode="secondary">Карта</Header>}
-    >
-      <Button stretched size="l" mode="secondary">
-        Маршрут
-      </Button>
-    </Group>
-
-    <Group header={<Header mode="secondary">Navigation Example</Header>}>
-      <Div>
-        <Button
-          stretched
-          size="l"
-          mode="secondary"
-          onClick={go}
-          data-to="persik"
-        >
-          Show me the Persik, please
+const Home = ({ id, go, fetchedUser }) => {
+  return (
+    <Panel id={id}>
+      <PanelHeader before={<PanelHeaderButton>Город</PanelHeaderButton>}>
+        Streamline
+      </PanelHeader>
+      <div className="main-map">
+        <YandexMap />
+      </div>
+      <Group
+        className="main-trail"
+        header={<Header mode="secondary">Карта</Header>}
+      >
+        <Button stretched size="l" mode="secondary">
+          Маршрут
         </Button>
-      </Div>
-    </Group>
-  </Panel>
-);
+      </Group>
+
+      <Group header={<Header mode="secondary">Navigation Example</Header>}>
+        <Div>
+          <Button stretched size="l" mode="secondary" data-to="persik">
+            Show me the Persik, please
+          </Button>
+        </Div>
+      </Group>
+    </Panel>
+  );
+};
 
 Home.propTypes = {
   id: PropTypes.string.isRequired,
