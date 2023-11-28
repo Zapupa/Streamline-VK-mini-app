@@ -16,12 +16,7 @@ const defaultMapState = {
   zoom: 12,
 };
 
-const mapState = {
-  center: [55.159901, 61.402547],
-  zoom: 12,
-};
-
-const YandexMap = () => {
+const YandexMap = ({ mapState }) => {
   const [positions, setPositions] = useState("");
   let gpxParser = require("gpxparser");
   var gpx = new gpxParser();

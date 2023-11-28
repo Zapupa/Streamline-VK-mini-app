@@ -17,10 +17,17 @@ import SelectModal from "./components/SelectModal/SelectModal";
 import Home from "./panels/Home";
 
 const App = () => {
+  const defaultMapState = {
+    center: [55.159901, 61.402547],
+    zoom: 12,
+  };
+
   const [activePanel, setActivePanel] = useState("home");
   const [fetchedUser, setUser] = useState(null);
   const [popout, setPopout] = useState(<ScreenSpinner size="large" />);
-  const [activeModal, setActiveModal] = useState("select");
+  const [activeModal, setActiveModal] = useState(null);
+  const [cityBtnText, setCityBtnText] = useState("Город");
+  const [mapState, setMapState] = useState(defaultMapState);
 
   useEffect(() => {
     async function fetchData() {
@@ -31,17 +38,25 @@ const App = () => {
     fetchData();
   }, []);
 
-  const go = (e) => {
-    setActivePanel(e.currentTarget.dataset.to);
+  const cityChange = (e) => {
+    setCityBtnText(e.currentTarget.dataset.name);
+    setMapState(e.currentTarget.dataset.state);
+    console.log(mapState);
+    closeModal();
+  };
+
+  const openModal = (e) => {
+    setActiveModal(e.currentTarget.dataset.to);
   };
 
   const closeModal = () => {
     setActiveModal(null);
   };
+
   const modal = (
     <ModalRoot activeModal={activeModal}>
       <ModalPage id="select" dynamicContentHeight onClose={closeModal}>
-        <SelectModal />
+        <SelectModal cityChange={cityChange} />
       </ModalPage>
     </ModalRoot>
   );
@@ -53,7 +68,12 @@ const App = () => {
           <SplitLayout popout={popout} modal={modal}>
             <SplitCol>
               <View activePanel={activePanel}>
-                <Home id="home" fetchedUser={fetchedUser} go={go} />
+                <Home
+                  id="home"
+                  openModal={openModal}
+                  cityBtnText={cityBtnText}
+                  mapState={mapState}
+                />
               </View>
             </SplitCol>
           </SplitLayout>

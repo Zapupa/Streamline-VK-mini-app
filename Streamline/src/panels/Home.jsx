@@ -16,14 +16,20 @@ import {
 
 import YandexMap from "../components/YandexMap/YandexMap";
 
-const Home = ({ id, go, fetchedUser }) => {
+const Home = ({ id, openModal, cityBtnText, mapState }) => {
   return (
     <Panel id={id}>
-      <PanelHeader before={<PanelHeaderButton>Город</PanelHeaderButton>}>
+      <PanelHeader
+        before={
+          <PanelHeaderButton onClick={openModal} data-to="select">
+            {cityBtnText}
+          </PanelHeaderButton>
+        }
+      >
         Streamline
       </PanelHeader>
       <div className="main-map">
-        <YandexMap />
+        <YandexMap mapState={mapState} />
       </div>
       <Group
         className="main-trail"
