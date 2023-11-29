@@ -16,7 +16,7 @@ import {
 
 import YandexMap from "../components/YandexMap/YandexMap";
 
-const Home = ({ id, openModal, cityBtnText, mapState }) => {
+const Home = ({ id, openModal, cityBtnText, mapState, positions }) => {
   return (
     <Panel id={id}>
       <PanelHeader
@@ -29,13 +29,19 @@ const Home = ({ id, openModal, cityBtnText, mapState }) => {
         Streamline
       </PanelHeader>
       <div className="main-map">
-        <YandexMap mapState={mapState} />
+        <YandexMap mapState={mapState} positions={positions} />
       </div>
       <Group
         className="main-trail"
         header={<Header mode="secondary">Карта</Header>}
       >
-        <Button stretched size="l" mode="secondary">
+        <Button
+          stretched
+          size="l"
+          mode="secondary"
+          onClick={openModal}
+          data-to="selectTrail"
+        >
           Маршрут
         </Button>
       </Group>

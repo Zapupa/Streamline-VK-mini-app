@@ -1,0 +1,5 @@
+{
+  "chelyabinsk": { "center": [55.159901, 61.402547], "zoom": 12 },
+  "moscow": { "center": [55.75404, 37.614953], "zoom": 12 },
+  "saintpeter": { "center": [59.936542, 30.313521], "zoom": 12 }
+}

@@ -6,6 +6,7 @@ import {
   FullscreenControl,
   GeoObject,
   Polyline,
+  Button,
 } from "@pbe/react-yandex-maps";
 import trail from "../../resources/trails/gorodskoi-bor.gpx";
 // import trail from "../../resources/trails/moskva-pushchino-tesna-june-16-mmxviii.gpx";
@@ -16,21 +17,25 @@ const defaultMapState = {
   zoom: 12,
 };
 
-const YandexMap = ({ mapState }) => {
-  const [positions, setPositions] = useState("");
-  let gpxParser = require("gpxparser");
-  var gpx = new gpxParser();
+const YandexMap = ({ mapState, positions }) => {
+  // const [position, setPosition] = useState("");
+  // setPosition(positions);
+  // const [positions, setPositions] = useState("");
+  // let gpxParser = require("gpxparser");
+  // var gpx = new gpxParser();
 
-  const componentDidMount = async () => {
-    const response = await fetch(trail, { metod: "POST" });
-    const gpxDemo = await response.text();
+  // const componentDidMount = async () => {
+  //   const response = await fetch(trail, { metod: "POST" });
+  //   const gpxDemo = await response.text();
 
-    gpx.parse(gpxDemo);
-    setPositions(gpx.tracks[0].points.map((p) => [p.lat, p.lon]));
+  //   gpx.parse(gpxDemo);
+  //   setPosition(gpx.tracks[0].points.map((p) => [p.lat, p.lon]));
 
-    console.log(positions);
-  };
-
+  //   console.log(position);
+  // };
+  // const pivo = () => {
+  //   componentDidMount();
+  // };
   return (
     <div>
       <YMaps

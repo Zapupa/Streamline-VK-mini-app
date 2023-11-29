@@ -13,10 +13,18 @@ import {
 } from "@vkontakte/vkui";
 import "@vkontakte/vkui/dist/vkui.css";
 
+import cities from "../src/resources/trails/cities.json";
 import SelectModal from "./components/SelectModal/SelectModal";
+import TrailModal from "./components/TrailModal/TrailModal";
 import Home from "./panels/Home";
+import gorBotTrail from "../src/resources/trails/gorodskoi-bor.gpx";
+import mosPushTesTrail from "../src/resources/trails/moskva-pushchino-tesna-june-16-mmxviii.gpx";
+import petLomTrail from "../src/resources/trails/saint-petersburg-peterhof-lomonosov.gpx";
 
 const App = () => {
+  let gpxParser = require("gpxparser");
+  var gpx = new gpxParser();
+
   const defaultMapState = {
     center: [55.159901, 61.402547],
     zoom: 12,
@@ -28,6 +36,9 @@ const App = () => {
   const [activeModal, setActiveModal] = useState(null);
   const [cityBtnText, setCityBtnText] = useState("Город");
   const [mapState, setMapState] = useState(defaultMapState);
+  const [positions, setPositions] = useState("");
+
+  // let currentTrail = "";
 
   useEffect(() => {
     async function fetchData() {
@@ -40,9 +51,47 @@ const App = () => {
 
   const cityChange = (e) => {
     setCityBtnText(e.currentTarget.dataset.name);
-    setMapState(e.currentTarget.dataset.state);
-    console.log(mapState);
+    switch (e.currentTarget.dataset.name) {
+      case "Челябинск":
+        setMapState(cities.chelyabinsk);
+        break;
+      case "Москва":
+        setMapState(cities.moscow);
+        break;
+      case "Санкт-Петербург":
+        setMapState(cities.saintpeter);
+        break;
+      default:
+    }
     closeModal();
+  };
+
+  const trailChange = (e) => {
+    let currentTrail = "";
+    switch (e.currentTarget.dataset.name) {
+      case "Городской бор":
+        currentTrail = gorBotTrail;
+        break;
+      case "Москва - Пушкино - Тесна":
+        currentTrail = mosPushTesTrail;
+        break;
+      case "Петергоф - ул. Ломоносова":
+        currentTrail = petLomTrail;
+        break;
+      default:
+    }
+    componentDidMount(currentTrail);
+    closeModal();
+  };
+
+  const componentDidMount = async (currentTrail) => {
+    const response = await fetch(currentTrail, { metod: "POST" });
+    const gpxDemo = await response.text();
+
+    gpx.parse(gpxDemo);
+    setPositions(gpx.tracks[0].points.map((p) => [p.lat, p.lon]));
+
+    console.log(positions);
   };
 
   const openModal = (e) => {
@@ -57,6 +106,9 @@ const App = () => {
     <ModalRoot activeModal={activeModal}>
       <ModalPage id="select" dynamicContentHeight onClose={closeModal}>
         <SelectModal cityChange={cityChange} />
+      </ModalPage>
+      <ModalPage id="selectTrail" dynamicContentHeight onClose={closeModal}>
+        <TrailModal trailChange={trailChange} />
       </ModalPage>
     </ModalRoot>
   );
@@ -73,6 +125,7 @@ const App = () => {
                   openModal={openModal}
                   cityBtnText={cityBtnText}
                   mapState={mapState}
+                  positions={positions}
                 />
               </View>
             </SplitCol>
