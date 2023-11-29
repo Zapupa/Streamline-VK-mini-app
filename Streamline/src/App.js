@@ -29,14 +29,17 @@ const App = () => {
     center: [55.159901, 61.402547],
     zoom: 12,
   };
-
+  const defaultPosition = [
+    [0, 0],
+    [0, 0],
+  ];
   const [activePanel, setActivePanel] = useState("home");
   const [fetchedUser, setUser] = useState(null);
   const [popout, setPopout] = useState(<ScreenSpinner size="large" />);
   const [activeModal, setActiveModal] = useState(null);
   const [cityBtnText, setCityBtnText] = useState("Город");
   const [mapState, setMapState] = useState(defaultMapState);
-  const [positions, setPositions] = useState("");
+  const [positions, setPositions] = useState(defaultPosition);
 
   // let currentTrail = "";
 
@@ -50,8 +53,8 @@ const App = () => {
   }, []);
 
   const cityChange = (e) => {
-    setCityBtnText(e.currentTarget.dataset.name);
-    switch (e.currentTarget.dataset.name) {
+    setCityBtnText(e.currentTarget.dataset.city);
+    switch (e.currentTarget.dataset.city) {
       case "Челябинск":
         setMapState(cities.chelyabinsk);
         break;
@@ -81,7 +84,8 @@ const App = () => {
       default:
     }
     componentDidMount(currentTrail);
-    closeModal();
+    cityChange(e);
+    // closeModal();
   };
 
   const componentDidMount = async (currentTrail) => {

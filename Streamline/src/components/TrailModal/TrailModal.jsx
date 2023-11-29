@@ -9,8 +9,8 @@ import {
 import { useState, useEffect, filter, Fragment } from "react";
 
 const trails = [
-  { city: "Челябинск ", name: "Городской бор" },
-  { city: "Москва ", name: "Москва - Пушкино - Тесна" },
+  { city: "Челябинск", name: "Городской бор" },
+  { city: "Москва", name: "Москва - Пушкино - Тесна" },
   {
     city: "Санкт-Петербург",
     name: "Петергоф - ул. Ломоносова",
@@ -34,7 +34,11 @@ const TrailModal = ({ trailChange }) => {
         <Search value={search} onChange={onChange} after={null} />
         {trailsFiltered.length > 0 &&
           trailsFiltered.map((trail) => (
-            <Cell onClick={trailChange} data-name={trail.name}>
+            <Cell
+              onClick={trailChange}
+              data-name={trail.name}
+              data-city={trail.city}
+            >
               {trail.name}
             </Cell>
           ))}

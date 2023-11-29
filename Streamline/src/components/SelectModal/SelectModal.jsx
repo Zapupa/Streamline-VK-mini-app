@@ -9,9 +9,10 @@ import {
 import { useState, useEffect, filter, Fragment } from "react";
 
 const cities = [
-  { name: "Челябинск" },
-  { name: "Москва" },
+  { city: "Челябинск", name: "Челябинск" },
+  { city: "Москва", name: "Москва" },
   {
+    city: "Санкт-Петербург",
     name: "Санкт-Петербург",
   },
 ];
@@ -33,7 +34,7 @@ const SelectModal = ({ cityChange }) => {
         <Search value={search} onChange={onChange} after={null} />
         {citiesFiltered.length > 0 &&
           citiesFiltered.map((city) => (
-            <Cell onClick={cityChange} data-name={city.name}>
+            <Cell onClick={cityChange} data-city={city.city}>
               {city.name}
             </Cell>
           ))}
