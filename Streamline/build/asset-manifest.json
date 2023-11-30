@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.600b6a44.css",
+    "main.js": "/static/js/main.ba5bd682.js",
+    "static/media/moskva-pushchino-tesna-june-16-mmxviii.gpx": "/static/media/moskva-pushchino-tesna-june-16-mmxviii.1e891c17c35ce95fd034.gpx",
+    "static/media/saint-petersburg-peterhof-lomonosov.gpx": "/static/media/saint-petersburg-peterhof-lomonosov.e5eef558bb370e8c7d80.gpx",
+    "static/media/gorodskoi-bor.gpx": "/static/media/gorodskoi-bor.3d5c024818c6d8dae824.gpx",
+    "index.html": "/index.html",
+    "main.600b6a44.css.map": "/static/css/main.600b6a44.css.map",
+    "main.ba5bd682.js.map": "/static/js/main.ba5bd682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.600b6a44.css",
+    "static/js/main.ba5bd682.js"
+  ]
+}

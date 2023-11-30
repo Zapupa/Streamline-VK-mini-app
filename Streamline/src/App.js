@@ -13,21 +13,28 @@ import {
 } from "@vkontakte/vkui";
 import "@vkontakte/vkui/dist/vkui.css";
 
-import cities from "../src/resources/trails/cities.json";
 import SelectModal from "./components/SelectModal/SelectModal";
 import TrailModal from "./components/TrailModal/TrailModal";
 import Home from "./panels/Home";
-import gorBotTrail from "../src/resources/trails/gorodskoi-bor.gpx";
-import mosPushTesTrail from "../src/resources/trails/moskva-pushchino-tesna-june-16-mmxviii.gpx";
-import petLomTrail from "../src/resources/trails/saint-petersburg-peterhof-lomonosov.gpx";
+import {
+  gorBotTrail,
+  mosPushTesTrail,
+  petLomTrail,
+  cities,
+  omskToKirevsk,
+  ekatCenter,
+  kazanGorkyToGolLakes,
+  moskowCenter,
+  chelAroundShersh,
+} from "./resources";
 
 const App = () => {
   let gpxParser = require("gpxparser");
   var gpx = new gpxParser();
 
   const defaultMapState = {
-    center: [55.159901, 61.402547],
-    zoom: 12,
+    center: [61.805515, 63.840594],
+    zoom: 4,
   };
   const defaultPosition = [
     [0, 0],
@@ -64,6 +71,24 @@ const App = () => {
       case "Санкт-Петербург":
         setMapState(cities.saintpeter);
         break;
+      case "Екатеринбург":
+        setMapState(cities.ekaterinburg);
+        break;
+      case "Иркутск":
+        setMapState(cities.irkutsk);
+        break;
+      case "Омск":
+        setMapState(cities.omsk);
+        break;
+      case "Якутск":
+        setMapState(cities.yakutsk);
+        break;
+      case "Казань":
+        setMapState(cities.kazan);
+        break;
+      case "Новосибирск":
+        setMapState(cities.novosib);
+        break;
       default:
     }
     closeModal();
@@ -80,6 +105,21 @@ const App = () => {
         break;
       case "Петергоф - ул. Ломоносова":
         currentTrail = petLomTrail;
+        break;
+      case "От Омска до Киревска":
+        currentTrail = omskToKirevsk;
+        break;
+      case "Северок - оз. Песчанное":
+        currentTrail = ekatCenter;
+        break;
+      case "От парка Горького до Голубых озер":
+        currentTrail = kazanGorkyToGolLakes;
+        break;
+      case "По центру москвы":
+        currentTrail = moskowCenter;
+        break;
+      case "Вокруг шершней":
+        currentTrail = chelAroundShersh;
         break;
       default:
     }
