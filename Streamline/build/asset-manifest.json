@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.600b6a44.css",
-    "main.js": "/static/js/main.ba5bd682.js",
+    "main.js": "/static/js/main.afb1d400.js",
     "static/media/moskva-pushchino-tesna-june-16-mmxviii.gpx": "/static/media/moskva-pushchino-tesna-june-16-mmxviii.1e891c17c35ce95fd034.gpx",
+    "static/media/ot-parka-gorkogo-na-golubye-oziora-cherez-podvesnoi-most.gpx": "/static/media/ot-parka-gorkogo-na-golubye-oziora-cherez-podvesnoi-most.29d0d32d3efe92b61804.gpx",
+    "static/media/ekaterinburg-severka-oz-peschanoe-iset-sredneuralsk-ekaterin.gpx": "/static/media/ekaterinburg-severka-oz-peschanoe-iset-sredneuralsk-ekaterin.eb586e0cb75f3b17ee41.gpx",
+    "static/media/2018-tomsk-kireevsk-velo.gpx": "/static/media/2018-tomsk-kireevsk-velo.30ae97ca63a9e23506ac.gpx",
     "static/media/saint-petersburg-peterhof-lomonosov.gpx": "/static/media/saint-petersburg-peterhof-lomonosov.e5eef558bb370e8c7d80.gpx",
+    "static/media/around-shershny.gpx": "/static/media/around-shershny.1f7ba969d92f826930ae.gpx",
+    "static/media/po-moskve-dec-28-mmxv.gpx": "/static/media/po-moskve-dec-28-mmxv.083e362d87e7c7ab4841.gpx",
     "static/media/gorodskoi-bor.gpx": "/static/media/gorodskoi-bor.3d5c024818c6d8dae824.gpx",
     "index.html": "/index.html",
     "main.600b6a44.css.map": "/static/css/main.600b6a44.css.map",
-    "main.ba5bd682.js.map": "/static/js/main.ba5bd682.js.map"
+    "main.afb1d400.js.map": "/static/js/main.afb1d400.js.map"
   },
   "entrypoints": [
     "static/css/main.600b6a44.css",
-    "static/js/main.ba5bd682.js"
+    "static/js/main.afb1d400.js"
   ]
 }

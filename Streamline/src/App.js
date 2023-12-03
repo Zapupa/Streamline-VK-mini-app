@@ -47,6 +47,7 @@ const App = () => {
   const [cityBtnText, setCityBtnText] = useState("Город");
   const [mapState, setMapState] = useState(defaultMapState);
   const [positions, setPositions] = useState(defaultPosition);
+  const [currentCity, setCurrentCity] = useState("Город");
 
   // let currentTrail = "";
 
@@ -61,7 +62,16 @@ const App = () => {
 
   const cityChange = (e) => {
     setCityBtnText(e.currentTarget.dataset.city);
+    setPositions(defaultPosition);
+    setCurrentCity(e.currentTarget.dataset.city);
+    cityMapStateChange(e);
+  };
+
+  const cityMapStateChange = (e) => {
     switch (e.currentTarget.dataset.city) {
+      case "Город":
+        setMapState(defaultMapState);
+        break;
       case "Челябинск":
         setMapState(cities.chelyabinsk);
         break;
@@ -124,7 +134,7 @@ const App = () => {
       default:
     }
     componentDidMount(currentTrail);
-    cityChange(e);
+    cityMapStateChange(e);
     // closeModal();
   };
 
@@ -152,13 +162,13 @@ const App = () => {
         <SelectModal cityChange={cityChange} />
       </ModalPage>
       <ModalPage id="selectTrail" dynamicContentHeight onClose={closeModal}>
-        <TrailModal trailChange={trailChange} />
+        <TrailModal trailChange={trailChange} currentCity={currentCity} />
       </ModalPage>
     </ModalRoot>
   );
 
   return (
-    <ConfigProvider>
+    <ConfigProvider hasCustomPanelHeaderAfter={false}>
       <AdaptivityProvider>
         <AppRoot>
           <SplitLayout popout={popout} modal={modal}>

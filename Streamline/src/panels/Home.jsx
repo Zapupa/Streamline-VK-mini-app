@@ -35,15 +35,17 @@ const Home = ({ id, openModal, cityBtnText, mapState, positions }) => {
         className="main-trail"
         header={<Header mode="secondary">Карта</Header>}
       >
-        <Button
-          stretched
-          size="l"
-          mode="secondary"
-          onClick={openModal}
-          data-to="selectTrail"
-        >
-          Маршрут
-        </Button>
+        <Div>
+          <Button
+            stretched
+            size="l"
+            mode="secondary"
+            onClick={openModal}
+            data-to="selectTrail"
+          >
+            Маршрут
+          </Button>
+        </Div>
       </Group>
 
       <Group header={<Header mode="secondary">Navigation Example</Header>}>

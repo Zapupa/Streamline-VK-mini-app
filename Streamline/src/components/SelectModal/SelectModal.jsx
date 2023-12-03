@@ -35,7 +35,15 @@ const SelectModal = ({ cityChange }) => {
   );
   return (
     <Fragment>
-      <PanelHeader>Выбор города</PanelHeader>
+      <PanelHeader
+        before={
+          <PanelHeaderButton onClick={cityChange} data-city="Город">
+            По умолчанию
+          </PanelHeaderButton>
+        }
+      >
+        Выбор города
+      </PanelHeader>
       <Group>
         <Search value={search} onChange={onChange} after={null} />
         {citiesFiltered.length > 0 &&

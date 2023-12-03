@@ -22,7 +22,9 @@ const trails = [
   { city: "Челябинск", name: "Вокруг шершней" },
 ];
 
-const TrailModal = ({ trailChange }) => {
+let hui;
+
+const TrailModal = ({ trailChange, currentCity }) => {
   const [search, setSearch] = useState("");
 
   const onChange = (e) => {
@@ -38,15 +40,21 @@ const TrailModal = ({ trailChange }) => {
       <Group>
         <Search value={search} onChange={onChange} after={null} />
         {trailsFiltered.length > 0 &&
-          trailsFiltered.map((trail) => (
-            <Cell
-              onClick={trailChange}
-              data-name={trail.name}
-              data-city={trail.city}
-            >
-              {trail.name}
-            </Cell>
-          ))}
+          trailsFiltered.map((trail) => {
+            hui = { currentCity };
+            if (trail.city != hui.currentCity && hui.currentCity != "Город") {
+              return;
+            }
+            return (
+              <Cell
+                onClick={trailChange}
+                data-name={trail.name}
+                data-city={trail.city}
+              >
+                {trail.name}
+              </Cell>
+            );
+          })}
         {trailsFiltered.length === 0 && <Footer>Ничего не найдено</Footer>}
       </Group>
     </Fragment>
