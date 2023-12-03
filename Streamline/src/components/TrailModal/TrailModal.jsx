@@ -22,7 +22,7 @@ const trails = [
   { city: "Челябинск", name: "Вокруг шершней" },
 ];
 
-let hui;
+let cock;
 
 const TrailModal = ({ trailChange, currentCity }) => {
   const [search, setSearch] = useState("");
@@ -41,8 +41,8 @@ const TrailModal = ({ trailChange, currentCity }) => {
         <Search value={search} onChange={onChange} after={null} />
         {trailsFiltered.length > 0 &&
           trailsFiltered.map((trail) => {
-            hui = { currentCity };
-            if (trail.city != hui.currentCity && hui.currentCity != "Город") {
+            cock = { currentCity };
+            if (trail.city != cock.currentCity && cock.currentCity != "Город") {
               return;
             }
             return (
