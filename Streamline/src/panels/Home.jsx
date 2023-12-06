@@ -47,14 +47,6 @@ const Home = ({ id, openModal, cityBtnText, mapState, positions }) => {
           </Button>
         </Div>
       </Group>
-
-      <Group header={<Header mode="secondary">Navigation Example</Header>}>
-        <Div>
-          <Button stretched size="l" mode="secondary" data-to="persik">
-            Show me the Persik, please
-          </Button>
-        </Div>
-      </Group>
     </Panel>
   );
 };
