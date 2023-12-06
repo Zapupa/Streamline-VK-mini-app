@@ -16,11 +16,9 @@ const cities = [
     name: "Санкт-Петербург",
   },
   { city: "Екатеринбург", name: "Екатеринбург" },
-  { city: "Иркутск", name: "Иркутск" },
   { city: "Омск", name: "Омск" },
-  { city: "Якутск", name: "Якутск" },
   { city: "Казань", name: "Казань" },
-  { city: "Новосибирск", name: "Новосибирск" },
+  { city: "Томск", name: "Томск" },
 ];
 
 const SelectModal = ({ cityChange }) => {

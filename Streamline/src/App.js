@@ -20,12 +20,24 @@ import {
   gorBotTrail,
   mosPushTesTrail,
   petLomTrail,
-  cities,
   omskToKirevsk,
   ekatCenter,
   kazanGorkyToGolLakes,
   moskowCenter,
   chelAroundShersh,
+  cities,
+  kazanBor,
+  tomskVerhnyaElan,
+  tomskVoskresnayaGora,
+  chelPoGorody,
+  moskowNovokosino,
+  omskNaberezhnyy,
+  omskPoCentry,
+  kazanVCentr,
+  ekatOzGluhoe,
+  petPoNabereznim,
+  orlovskiiKareer,
+  ekatRevun,
 } from "./resources";
 
 const App = () => {
@@ -33,8 +45,8 @@ const App = () => {
   var gpx = new gpxParser();
 
   const defaultMapState = {
-    center: [61.805515, 63.840594],
-    zoom: 4,
+    center: [59.214515, 79.918415],
+    zoom: 3,
   };
   const defaultPosition = [
     [0, 0],
@@ -84,20 +96,14 @@ const App = () => {
       case "Екатеринбург":
         setMapState(cities.ekaterinburg);
         break;
-      case "Иркутск":
-        setMapState(cities.irkutsk);
-        break;
       case "Омск":
         setMapState(cities.omsk);
-        break;
-      case "Якутск":
-        setMapState(cities.yakutsk);
         break;
       case "Казань":
         setMapState(cities.kazan);
         break;
-      case "Новосибирск":
-        setMapState(cities.novosib);
+      case "Томск":
+        setMapState(cities.tomsk);
         break;
       default:
     }
@@ -116,7 +122,7 @@ const App = () => {
       case "Петергоф - ул. Ломоносова":
         currentTrail = petLomTrail;
         break;
-      case "От Омска до Киревска":
+      case "От Томска до Киревска":
         currentTrail = omskToKirevsk;
         break;
       case "Северок - оз. Песчанное":
@@ -130,6 +136,42 @@ const App = () => {
         break;
       case "Вокруг шершней":
         currentTrail = chelAroundShersh;
+        break;
+      case "Казанский бор":
+        currentTrail = kazanBor;
+        break;
+      case "Томск - Верхняя Елань":
+        currentTrail = tomskVerhnyaElan;
+        break;
+      case "Томск - Воскресная гора":
+        currentTrail = tomskVoskresnayaGora;
+        break;
+      case "По городу":
+        currentTrail = chelPoGorody;
+        break;
+      case "Москва - Новокосино и обратно":
+        currentTrail = moskowNovokosino;
+        break;
+      case "Омск до набережной":
+        currentTrail = omskNaberezhnyy;
+        break;
+      case "По центру Омска":
+        currentTrail = omskPoCentry;
+        break;
+      case "В центр Казани":
+        currentTrail = kazanVCentr;
+        break;
+      case "Екатеринбург - оз. Глухое":
+        currentTrail = ekatOzGluhoe;
+        break;
+      case "Санкт-Петербург по набережным":
+        currentTrail = petPoNabereznim;
+        break;
+      case "Орловский карьер":
+        currentTrail = orlovskiiKareer;
+        break;
+      case "Екатеринбург - Ревун":
+        currentTrail = ekatRevun;
         break;
       default:
     }

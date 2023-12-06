@@ -3,9 +3,7 @@
   "moscow": { "center": [55.75404, 37.614953], "zoom": 9 },
   "saintpeter": { "center": [59.936542, 30.313521], "zoom": 10 },
   "ekaterinburg": { "center": [56.837958, 60.597114], "zoom": 9 },
-  "irkutsk": { "center": [52.290111, 104.279229], "zoom": 8 },
   "omsk": { "center": [54.988695, 73.366878], "zoom": 10 },
-  "yakutsk": { "center": [62.026915, 129.732582], "zoom": 10 },
   "kazan": { "center": [55.795366, 49.105579], "zoom": 8 },
-  "novosib": { "center": [55.029738, 82.919782], "zoom": 10 }
+  "tomsk": { "center": [56.488549, 84.951595], "zoom": 10 }
 }
